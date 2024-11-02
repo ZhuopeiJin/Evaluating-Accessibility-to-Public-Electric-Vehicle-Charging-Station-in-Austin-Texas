@@ -1,0 +1,2041 @@
+id,Station Name,Address_1,Address  2,City,State,Postal Code,No. of Ports,Pricing Policy,Usage Access,Category,Subcategory,Port 1: Connector Type,Voltage (V),Port 2: Connector Type,New Georeferenced Column,Pricing ,Power Select
+1,AISD / AKINS1,10701 S 1st St.,,Austin,Texas,78748,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"10701 S 1st St.
+Austin, Texas 3637
+(30.148788993, -97.800974966)",,40A
+2,AMD GO GREEN / P100 FL2 LEFT,7171 Southwest Pkwy,,Austin,Texas,78735,2,,AMD Lone Star,Workplace,High-Tech,J1772,240V,J1772,"7171 Southwest Pkwy
+Austin, Texas 3251
+(30.251202984, -97.863350994)",,40A
+3,PIE AE / PUBACCHIGHLAND1,5930 Middle Fiskville Rd,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"5930 Middle Fiskville Rd
+Austin, Texas 3641
+(30.322711012, -97.712367018)",$4.17/month PIE members $2/hr Non-Members,40A
+4,ACC / AE HLC GAR 1F7,6018 WILHELMINA DELCO DR,,Austin,Texas,78752,2,,All Drivers,Education,University / College,J1772,240V,J1772,"6018 WILHELMINA DELCO DR
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+5,RIATA' / WOODTRAIL,5700 Tapadera Trace Ln,,Austin,Texas,78727,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"5700 Tapadera Trace Ln
+Austin, Texas 3243
+(30.430362979, -97.742072985)",$4.17/month PIE members $2/hr Non-Members,40A
+6,FOUNDATION COMM / JORDAN2,2724 Philomena St,,Austin,Texas,78723,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"2724 Philomena St
+Austin, Texas 3239
+(30.299243988, -97.694802991)",,40A
+7,DSMCUT / EVSE07 FLOOR L1,501573 E 15th St,,Austin,Texas,78701,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"501573 E 15th St
+Austin, Texas 2856
+(30.275257241, -97.729358387)",,40A
+8,NRP GROUP / DECKER 2,9000 Decker Ln,,Austin,Texas,78724,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"9000 Decker Ln
+Austin, Texas 3240
+(30.316931019, -97.615761979)",$4.17/month PIE members $2/hr Non-Members,40A
+9,PIE AE / PUBDITTMAR1,1009 W Dittmar Rd,,Austin,Texas,78745,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parks and Recreation,,J1772,240V,J1772,"1009 W Dittmar Rd
+Austin, Texas 3637
+(30.184661988, -97.802324033)",$4.17/month PIE members $2/hr Non-Members,40A
+10,THE GROVE / MAIN STATION 1,3707 Manchaca Rd,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"3707 Manchaca Rd
+Austin, Texas 2859
+(30.236312994, -97.783641023)",$4.17/month PIE members $2/hr Non-Members,40A
+11,STEINER RANCH / EV CHARGER #2,4800 Steiner Ranch Blvd,,Austin,Texas,78732,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"4800 Steiner Ranch Blvd
+Austin, Texas 3248
+(30.382748991, -97.873827032)",$4.17/month PIE members $2/hr Non-Members,40A
+12,COA / LOT J NW,10200 Hotel Drive,,Austin,Texas,78719,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10200 Hotel Drive
+Austin, Texas 2863
+(30.205143291, -97.660903055)",,40A
+13,BUILDING 7 EVCS / STATION1,909 Reinli St,,Austin,Texas,78751,2,,All Drivers,Multi-family Commercial,Condominium,J1772,240V,J1772,"909 Reinli St
+Austin, Texas 3640
+(30.319053987, -97.710345973)",,40A
+14,AVIATION / 5TH FLOOR,3201 Presidential Blvd,,Austin,Texas,78719,2,,All Drivers,Parking,Airport,J1772,240V,J1772,"3201 Presidential Blvd
+Austin, Texas 2863
+(30.204258773, -97.670137162)",,40A
+15,PIE AE / PALMER STATION1,800 Barton Springs Rd,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,"NEMA 5-20R, J1772",240V,"NEMA 5-20R, J1772","800 Barton Springs Rd
+Austin, Texas 2859
+(30.2592972, -97.752574566)",$4.17/month PIE members $2/hr Non-Members,40A
+16,PIE AE / PUB UTPICKLE1,10100 Burnet Rd,J. J. Pickle Research Campus,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"10100 Burnet Rd
+Austin, Texas 3646
+(30.387576004, -97.727587967)",$4.17/month PIE members $2/hr Non-Members,40A
+17,W1 / W 1,4100 Jackson Ave,,Austin,Texas,78731,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4100 Jackson Ave
+Austin, Texas 3247
+(30.316046016, -97.755586038)",$4.17/month PIE members $2/hr Non-Members,40A
+18,THE BOWIE / STATION 02,311 Bowie St,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,--,J1772,"311 Bowie St
+Austin, Texas 2856
+(30.269150986, -97.752987984)",$4.17/month PIE members $2/hr Non-Members,40A
+19,MUELLER MARKET / MUELLER ST7,1801 E 51st St,,Austin,Texas,78723,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"1801 E 51st St
+Austin, Texas 3239
+(30.302518001, -97.69830604)",$4.17/month PIE members $2/hr Non-Members,40A
+20,BRANDYWINE AUST / FOUR POINTS 01,11305 4 Points Dr,,Austin,Texas,78726,2,,All Drivers,Workplace,General,J1772,240V,J1772,"11305 4 Points Dr
+Austin, Texas 3246
+(30.404812005, -97.849887981)",,40A
+21,RIATA' / THE ENCLAVE,12320 Alameda Trace Cir,,Austin,Texas,78727,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"12320 Alameda Trace Cir
+Austin, Texas 3243
+(30.430448014, -97.748996018)",$4.17/month PIE members $2/hr Non-Members,40A
+22,DCMC GARAGE 3 / LL #3,4900 Mueller Boulevard,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Boulevard
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+23,CAPRIDGE PA / LAKEWOOD,7600b N Capital of Texas Hwy,,Austin,Texas,78731,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"7600b N Capital of Texas Hwy
+Austin, Texas 3247
+(30.375345005, -97.783085973)",,40A
+24,TR DOMAIN 10 / COUSINS D10-5B,11815 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"11815 Alterra Pkwy
+Austin, Texas 3646
+(30.403614985, -97.718629976)",$4.17/month PIE members $2/hr Non-Members,40A
+25,SALTILLO / BLOCK 1,901 E 5th St,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"901 E 5th St
+Austin, Texas 2857
+(30.263742982, -97.732951966)",$4.17/month PIE members $2/hr Non-Members,40A
+26,LAS CIMAS4 / LAS CIMAS #1,900 S Capital of Texas Hwy,,West Lake Hills,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"900 S Capital of Texas Hwy
+West Lake Hills, Texas 3260
+(30.287709986, -97.829497996)",$4.17/month PIE members $2/hr Non-Members,40A
+27,CAPMETRO / EVSE 01,624 N Pleasant Valley Rd,,Austin,Texas,78702,2,,All Drivers,Municipal,Municipal Fleet,J1772,240V,J1772,"624 N Pleasant Valley Rd
+Austin, Texas 2857
+(30.258991993, -97.710528028)",,40A
+28,AUSTIN / 400 - 1,400 W Cesar Chavez St,,Austin,Texas,78701,2,,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"400 W Cesar Chavez St
+Austin, Texas 2856
+(30.264998004, -97.748407022)",,40A
+29,PIE AE / PUBGABLES 5TH 1,1611 W 5th St,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"1611 W 5th St
+Austin, Texas 2858
+(30.274295001, -97.764683002)",$4.17/month PIE members $2/hr Non-Members,40A
+30,PIE AE / PUBPEARSON CTR1,400 Center Ridge Dr,,Austin,Texas,78753,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"400 Center Ridge Dr
+Austin, Texas 3642
+(30.416841, -97.663986002)",$4.17/month PIE members $2/hr Non-Members,40A
+31,AUSTIN FC / EIGHT,10414 Mc Kalla Pl,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10414 Mc Kalla Pl
+Austin, Texas 3646
+(30.387724992, -97.719413013)",,40A
+32,DCMC GARAGE 3 / LVL4 ELEVATOR,4910 Mueller Blvd,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4910 Mueller Blvd
+Austin, Texas 3239
+(30.302221994, -97.706071035)",,40A
+33,ENDEAVOR REG / 901 E 6TH ST 5,901 E 6th St,,Austin,Texas,78702,2,,All Drivers,Workplace,General,J1772,240V,J1772,"901 E 6th St
+Austin, Texas 2857
+(30.265159984, -97.733481032)",,40A
+34,INDEED TOWER / P7 CORE ST 1,200 W 6th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W 6th St
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,
+35,YETI RAMBLERS / EVSE #3,7601 Southwest Pkwy,,Austin,Texas,78735,2,$4.17/month PIE members $2/hr Non-Members,Yeti Coolers,Workplace,General,J1772,240V,J1772,"7601 Southwest Pkwy
+Austin, Texas 3251
+(30.25580599, -97.872517024)",$4.17/month PIE members $2/hr Non-Members,40A
+36,SALTILLO / BLOCK 3,1109 E 5th St,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"1109 E 5th St
+Austin, Texas 2857
+(30.263500996, -97.731369966)",$4.17/month PIE members $2/hr Non-Members,40A
+37,ROSCOE PROPERTI / MESH MAIN,2100 Elmont Dr,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"2100 Elmont Dr
+Austin, Texas 3256
+(30.241486156, -97.725735802)",$4.17/month PIE members $2/hr Non-Members,40A
+38,AUSTIN / AUSTIN 400 - 3,400 W Cesar Chavez St,,Austin,Texas,78701,2,,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"400 W Cesar Chavez St
+Austin, Texas 2856
+(30.264998004, -97.748407022)",,40A
+39,NEXUS EAST / STATION 1,720 Airport Blvd,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"720 Airport Blvd
+Austin, Texas 2857
+(30.252853003, -97.693278993)",$4.17/month PIE members $2/hr Non-Members,40A
+40,PIE AE / PUB LOCKHART 1,319 W Slaughter Ln,,Austin,Texas,78748,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"319 W Slaughter Ln
+Austin, Texas 3637
+(30.168584995, -97.795922019)",$4.17/month PIE members $2/hr Non-Members,40A
+41,DSMCUT / EVSE06 FLOOR L2,501573 E 15th St,,Austin,Texas,78701,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"501573 E 15th St
+Austin, Texas 2856
+(30.275257241, -97.729358387)",,40A
+42,AVIATION / AUS-WAREHOUSE 2,10100 Golfcourse Rd,,Austin,Texas,78719,2,,All Drivers,Municipal,Parks and Recreation (Public),J1772,240V,J1772,"10100 Golfcourse Rd
+Austin, Texas 2863
+(30.206619334, -97.652739264)",,40A
+43,THE MEDVE GROUP / TURTLE-CREEK,5946 S 1st St,,Austin,Texas,78745,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,--,J1772,"5946 S 1st St
+Austin, Texas 3259
+(30.204075414, -97.783769531)",$4.17/month PIE members $2/hr Non-Members,40A
+44,AISD / CENTRAL OFFICE1,4000 S IH 35 Frontage Rd,,Austin,Texas,78704,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"4000 S IH 35 Frontage Rd
+Austin, Texas 2859
+(30.218614019, -97.753256959)",,40A
+45,ENDEAVOR REG / ENDEAVOR STAT1,2021 East 5th St,,Austin,Texas,78702,2,,Tenant Only,Workplace,General,J1772,240V,J1772,"2021 East 5th St
+Austin, Texas 2857
+(30.259472989, -97.720214994)",,40A
+46,ACC / AE HLC GAR 2F2,6018 WILHELMINA DELCO DR,,Austin,Texas,78752,2,,All Drivers,Education,University / College,J1772,240V,J1772,"6018 WILHELMINA DELCO DR
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+47,FOUNDATION COMM / JORDAN4,2724 Philomena St,,Austin,Texas,78723,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"2724 Philomena St
+Austin, Texas 3239
+(30.299243988, -97.694802991)",,40A
+48,ROSCOE PROPERTI / VOLUME MAIN,1715 E 32nd St,,Austin,Texas,78722,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"1715 E 32nd St
+Austin, Texas 2865
+(30.286095003, -97.715503023)",$4.17/month PIE members $2/hr Non-Members,40A
+49,PIE AE / PUBACCSOAUSTIN2,5517 Manchaca Rd,,Austin,Texas,78745,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"5517 Manchaca Rd
+Austin, Texas 3259
+(30.215906999, -97.796698016)",$4.17/month PIE members $2/hr Non-Members,40A
+50,PIE AE / RUTHERFORDCAMP1,8301 Cameron Rd,,Austin,Texas,78754,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"8301 Cameron Rd
+Austin, Texas 3643
+(30.337343007, -97.680257036)",$4.17/month PIE members $2/hr Non-Members,40A
+51,INDEED TOWER / P7 SOUTH ST 1,200 W 6TH ST,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,--,J1772,"200 W 6TH ST
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+52,BRANDYWINE AUST / FOUR POINTS 2,11120 4 Points Dr,,Austin,Texas,78726,2,,All Drivers,Workplace,General,J1772,240V,J1772,"11120 4 Points Dr
+Austin, Texas 3242
+(30.40539702, -97.848074975)",,40A
+53,FOLIO / FOLIO 1,11900 Stonehollow Dr,,Austin,Texas,78758,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"11900 Stonehollow Dr
+Austin, Texas 3646
+(30.400678008, -97.705294032)",,40A
+54,AUSTIN FC / TWO,10414 Mc Kalla Pl,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10414 Mc Kalla Pl
+Austin, Texas 3646
+(30.387724992, -97.719413013)",,40A
+55,SIENNATHOMPSON / #1,501 Brazos St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"501 Brazos St
+Austin, Texas 2856
+(30.266868007, -97.741174026)",$4.17/month PIE members $2/hr Non-Members,40A
+56,BOULDIN CREEK / 3,2043 S Lamar Blvd,,Austin,Texas,78704,2,,Tenant,Workplace,General,J1772,240V,J1772,"2043 S Lamar Blvd
+Austin, Texas 2859
+(30.248294002, -97.769373012)",,40A
+57,PIE AE / MACC STATION 1,600 River St.,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Municipal Workplace,J1772,240V,J1772,"600 River St.
+Austin, Texas 2856
+(30.25839298, -97.740327035)",$4.17/month PIE members $2/hr Non-Members,40A
+58,PIE AE / PUBLIFEWORKSST1,835 N Pleasant Valley Rd,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,--,J1772,"835 N Pleasant Valley Rd
+Austin, Texas 2857
+(30.264893985, -97.707619005)",$4.17/month PIE members $2/hr Non-Members,40A
+59,PIE AE / PUBACCRIVERSID2,1230 Grove Blvd,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"1230 Grove Blvd
+Austin, Texas 3256
+(30.233870297, -97.705146499)",$4.17/month PIE members $2/hr Non-Members,40A
+60,YAUPON / STATION 2,7750 US-290,,Austin,Texas,78736,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"7750 US-290
+Austin, Texas 3252
+(30.229061813, -97.885330632)",$4.17/month PIE members $2/hr Non-Members,40A
+61,RAINEY STREET / MILLENNIUM-02,91 Rainey St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"91 Rainey St
+Austin, Texas 2856
+(30.260197017, -97.737995022)",$4.17/month PIE members $2/hr Non-Members,40A
+62,AUSTIN FC / THREE,10414 Mc Kalla Pl,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10414 Mc Kalla Pl
+Austin, Texas 3646
+(30.387724992, -97.719413013)",,40A
+63,PIE AE / MUELLERHQ P2-6,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,
+64,HANOVER / L6,110 San Antonio St,,Austin,Texas,78701,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"110 San Antonio St
+Austin, Texas 2856
+(30.26531199, -97.749484013)",$4.17/month PIE members $2/hr Non-Members,40A
+65,AVIATION / AUS-IT 1,3011 Employee Ave,,Austin,Texas,78719,2,,All Drivers,Municipal,Municipal Workplace,J1772,240V,J1772,"3011 Employee Ave
+Austin, Texas 2863
+(30.207164004, -97.66563598)",,40A
+66,DCMC GARAGE 3 / L1 #11,4900 Mueller Boulevard,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Boulevard
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+67,PALOMA RIDGE / PALOMA BDG C #7,13620 N FM 620,,Austin,Texas,78717,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"13620 N FM 620
+Austin, Texas 2862
+(30.476522078, -97.77881028)",$4.17/month PIE members $2/hr Non-Members,40A
+68,PRESIDIUM / ELEVATION,1911 Willow Creek Dr,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"1911 Willow Creek Dr
+Austin, Texas 3256
+(30.233612009, -97.727195023)",$4.17/month PIE members $2/hr Non-Members,40A
+69,ENDEAVOR REG / 901 E 6TH ST 2,901 E 6th St,,Austin,Texas,78702,2,,All Drivers,Workplace,General,J1772,240V,J1772,"901 E 6th St
+Austin, Texas 2857
+(30.265159984, -97.733481032)",,40A
+70,DCMC GARAGE 3 / LVL2 ELEVATOR,4910 Mueller Blvd,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4910 Mueller Blvd
+Austin, Texas 3239
+(30.302221994, -97.706071035)",,40A
+71,PALOMA RIDGE / PALOMA BDG C #3,13620 N FM 620,,Austin,Texas,78717,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,--,J1772,"13620 N FM 620
+Austin, Texas 2862
+(30.476522078, -97.77881028)",$4.17/month PIE members $2/hr Non-Members,40A
+72,CIELO CENTER / STATION 2,1250 S Capital of Texas Hwy,,Austin,Texas,78746,2,,All Drivers,Workplace,General,J1772,240V,J1772,"1250 S Capital of Texas Hwy
+Austin, Texas 3260
+(30.279993983, -97.822950975)",,40A
+73,PIE AE / CITY HALL STAT2,400 W 2nd St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"400 W 2nd St
+Austin, Texas 2856
+(30.26591599, -97.748045008)",$4.17/month PIE members $2/hr Non-Members,40A
+74,PIE AE / CITY HALL STAT1,400 W 2nd St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"400 W 2nd St
+Austin, Texas 2856
+(30.26591599, -97.748045008)",$4.17/month PIE members $2/hr Non-Members,40A
+75,AUSTIN DOT / PDC EV #10,6310 Wilhelmina Delco Drive,,Austin,Texas,78752,2,,All Drivers,Workplace,General,J1772,240V,J1772,"6310 Wilhelmina Delco Drive
+Austin, Texas 3641
+(30.26759, -97.74299)",,40A
+76,SALTILLO / BLOCK 2,1011 E 5th St,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"1011 E 5th St
+Austin, Texas 2857
+(30.263641016, -97.732652984)",$4.17/month PIE members $2/hr Non-Members,40A
+77,ACC-AE / RIO GRANDE GAR1,824 W 12th St,,Austin,Texas,78701,2,,All Drivers,Education,University / College,J1772,240V,J1772,"824 W 12th St
+Austin, Texas 2856
+(30.276627015, -97.749445037)",,40A
+78,DCMC GARAGE 3 / LL #9,4900 Mueller Blvd,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Blvd
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+79,AMBEROAKS-AE / AMBER 1,9001 Amberglen Blvd,,Austin,Texas,78729,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"9001 Amberglen Blvd
+Austin, Texas 3245
+(30.469329274, -97.766096358)",,40A
+80,PALOMA RIDGE / PALOMA BDG C #8,13620 N FM 620,,Austin,Texas,78717,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"13620 N FM 620
+Austin, Texas 2862
+(30.476522078, -97.77881028)",$4.17/month PIE members $2/hr Non-Members,40A
+81,INDEED TOWER / B3-L,200 W 6th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W 6th St
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+82,WHITLEY MAIN / PIE-M WHITLEY,301 Brazos St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Condominium,J1772,240V,J1772,"301 Brazos St
+Austin, Texas 2856
+(30.265021012, -97.741889003)",$4.17/month PIE members $2/hr Non-Members,40A
+83,PIE AE / PDC LV1 CHRG#8,6310 Wilhelmina Delco Dr,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Municipal Fleet,J1772,240V,J1772,"6310 Wilhelmina Delco Dr
+Austin, Texas 3641
+(30.3166, -97.6575)",$4.17/month PIE members $2/hr Non-Members,40A
+84,PIE AE / PUBPEARSONH LN1,905 W Howard Ln,,Austin,Texas,78753,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"905 W Howard Ln
+Austin, Texas 3642
+(30.417642016, -97.66534102)",$4.17/month PIE members $2/hr Non-Members,40A
+85,HPE AUSTIN / OFF NETWORK 1,14231 Tandem Blvd,,Austin,Texas,78728,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"14231 Tandem Blvd
+Austin, Texas 3244
+(30.445355019, -97.690141982)",$4.17/month PIE members $2/hr Non-Members,40A
+86,PRESIDIUM / VUE -,7607 Blessing Ave,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"7607 Blessing Ave
+Austin, Texas 3641
+(30.333441985, -97.691653994)",$4.17/month PIE members $2/hr Non-Members,40A
+87,PIE AE / CONVENTION CTR1,201 E 2nd St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"201 E 2nd St
+Austin, Texas 2856
+(30.263545001, -97.742439023)",$4.17/month PIE members $2/hr Non-Members,40A
+88,PIE AE / PUB UTANTONIO 1,2420 San Antonio St,,Austin,Texas,78705,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,--,J1772,"2420 San Antonio St
+Austin, Texas 2860
+(30.288792006, -97.742651001)",$4.17/month PIE members $2/hr Non-Members,40A
+89,AUSTIN DOT / PDC EV #3,6310 Wilhelmina Delco Drive,,Austin,Texas,78752,2,,All Drivers,Workplace,General,J1772,240V,J1772,"6310 Wilhelmina Delco Drive
+Austin, Texas 3641
+(30.26759, -97.74299)",,40A
+90,SIENNATHOMPSON / #5,501 Brazos St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,--,J1772,"501 Brazos St
+Austin, Texas 2856
+(30.266868007, -97.741174026)",$4.17/month PIE members $2/hr Non-Members,40A
+91,INDEED TOWER / B2 WEST GW1,202 W 6th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"202 W 6th St
+Austin, Texas 2856
+(30.268700481, -97.744943332)",$4.17/month PIE members $2/hr Non-Members,40A
+92,PIE AE / SMART CHARGE 1,2016 Centimeter Cir,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"2016 Centimeter Cir
+Austin, Texas 3646
+(30.381075, -97.71429804)",$4.17/month PIE members $2/hr Non-Members,40A
+93,COA / DOA - CONRAC2,3819 Presidential Blvd,,Austin,Texas,78719,2,,All Drivers,Retail,Car Rental / Car Share,J1772,240V,J1772,"3819 Presidential Blvd
+Austin, Texas 2863
+(30.197721999, -97.661789021)",,40A
+94,TR DOMAIN 10 / ALTERRA 5,11815 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"11815 Alterra Pkwy
+Austin, Texas 3646
+(30.403614985, -97.718629976)",$4.17/month PIE members $2/hr Non-Members,40A
+95,B AUSTIN / STATION 1,6700 Manchaca Rd,,Austin,Texas,78745,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"6700 Manchaca Rd
+Austin, Texas 3259
+(30.20629698, -97.807133988)",,40A
+96,ZOEY AUSTIN / ZOEY - LEVEL 4,5700 E Riverside Dr,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"5700 E Riverside Dr
+Austin, Texas 3256
+(30.228463006, -97.709738034)",$4.17/month PIE members $2/hr Non-Members,40A
+97,PIE AE / NWRECCENTER 4,2913 Northland Dr,,Austin,Texas,78757,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parks and Recreation,,J1772,240V,J1772,"2913 Northland Dr
+Austin, Texas 3247
+(30.333744991, -97.751898001)",$4.17/month PIE members $2/hr Non-Members,40A
+98,ENDEAVOR REG / STATION 1,11001 Lakeline Blvd,,Austin,Texas,78717,2,,All Drivers,Workplace,General,J1772,240V,J1772,"11001 Lakeline Blvd
+Austin, Texas 2862
+(30.480061085, -97.794551746)",,40A
+99,MONOGRAM / PARKING 4-5,615 W 7th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"615 W 7th St
+Austin, Texas 2856
+(30.270491, -97.748857968)",$4.17/month PIE members $2/hr Non-Members,40A
+100,FOUNDATION COMM / STATION 01,11015 four points dr,,Austin,Texas,78726,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"11015 four points dr
+Austin, Texas 3246
+(30.399716017, -97.847150032)",,40A
+101,DCMC GARAGE 3 / EV STATION 8,4924 Mueller/Barbara Jordan,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4924 Mueller/Barbara Jordan
+Austin, Texas 3239
+(30.30385548, -97.704084562)",,40A
+102,ENDEAVOR REG / LEVEL 4 - #2,4301 Bull Creek Rd,,Austin,Texas,78731,2,,All Drivers,Workplace,General,J1772,240V,J1772,"4301 Bull Creek Rd
+Austin, Texas 3247
+(30.318010985, -97.753847967)",,40A
+103,PIE AE / PDC LV1 CHRG#4,6310 Wilhelmina Delco Dr,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Municipal Fleet,J1772,240V,J1772,"6310 Wilhelmina Delco Dr
+Austin, Texas 3641
+(30.3166, -97.6575)",$4.17/month PIE members $2/hr Non-Members,40A
+104,NATIONAL INSTRU / 9&10;,11500 N Mopac Expy,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"11500 N Mopac Expy
+Austin, Texas 3647
+(30.406639008, -97.727892985)",$4.17/month PIE members $2/hr Non-Members,40A
+105,QO I & II / QO2,10900-A Stonelake Blvd,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"10900-A Stonelake Blvd
+Austin, Texas 3647
+(30.401859018, -97.736482005)",$4.17/month PIE members $2/hr Non-Members,40A
+106,PIE AE / MUELLERHQ P1-5,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,40A
+107,ZOEY AUSTIN / ZOEY - LEVEL 1,5700 E Riverside Dr,,Austin,Texas,78741,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"5700 E Riverside Dr
+Austin, Texas 3256
+(30.228463006, -97.709738034)",$4.17/month PIE members $2/hr Non-Members,40A
+108,DCMC GARAGE 3 / LL #8,4900 Mueller Boulevard,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Boulevard
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+109,ACC-AE / RIO GRANDE SUR2,1307 West Ave,,Austin,Texas,78701,2,,All Drivers,Education,University / College,J1772,240V,J1772,"1307 West Ave
+Austin, Texas 2856
+(30.277920007, -97.747544021)",,40A
+110,INT-BIO EV CHGR / INTBIO EV CHGR1,8206 Cross Park Dr,,Austin,Texas,78754,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"8206 Cross Park Dr
+Austin, Texas 3643
+(30.331232012, -97.669184039)",$4.17/month PIE members $2/hr Non-Members,40A
+111,DCMC GARAGE 3 / EV STATION 4,1400 Barbara Jordan Blvd,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"1400 Barbara Jordan Blvd
+Austin, Texas 3239
+(30.304783001, -97.704081003)",,40A
+112,NATIONAL INSTRU / 19&20;,11500 N Mopac Expy,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"11500 N Mopac Expy
+Austin, Texas 3647
+(30.406639008, -97.727892985)",$4.17/month PIE members $2/hr Non-Members,40A
+113,FOUNDATION COMM / 12190WT,12190 N Mopac Expy,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"12190 N Mopac Expy
+Austin, Texas 3646
+(30.413622411, -97.708275323)",,40A
+114,TR DOMAIN 10 / COUSINS DOMAIN7,11815 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"11815 Alterra Pkwy
+Austin, Texas 3646
+(30.403614985, -97.718629976)",$4.17/month PIE members $2/hr Non-Members,40A
+115,AUSTIN / AUSTIN 400 - 2,400 W Cesar Chavez St,,Austin,Texas,78701,2,,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"400 W Cesar Chavez St
+Austin, Texas 2856
+(30.264998004, -97.748407022)",,40A
+116,DSMCUT / EVSE09 FLOOR LL,1305 Red River St,,Austin,Texas,78701,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"1305 Red River St
+Austin, Texas 2856
+(30.273944463, -97.734978033)",,40A
+117,ENDEAVOR REG / DELLANA LN 1,2602 Dellana Ln,,Austin,Texas,78746,2,,Tenant Only,Workplace,General,J1772,240V,J1772,"2602 Dellana Ln
+Austin, Texas 3260
+(30.267877222, -97.783967775)",,40A
+118,IXIA-AUSTIN1 / IXIA AUSTIN,8310 N Capital of Texas Hwy,,Austin,Texas,78731,2,$4.17/month PIE members $2/hr Non-Members,IXIA AUSTIN,Workplace,General,J1772,240V,J1772,"8310 N Capital of Texas Hwy
+Austin, Texas 3647
+(30.385893001, -97.768382019)",$4.17/month PIE members $2/hr Non-Members,
+119,PIE AE / MUELLERHQ P3-2,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,40A
+120,DOMAIN / STATION 2,11601 Alterra Parkway,,Austin,Texas,78758,2,,All Drivers,Multi-family Commercial,Condominium,J1772,240V,J1772,"11601 Alterra Parkway
+Austin, Texas 3646
+(30.401981981, -97.71885503)",,40A
+121,MUELLER MARKET / MUELLER ST1,"1801 E 51st St Austin, TX 78723",,Austin,Texas,78723,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"1801 E 51st St Austin, TX 78723
+Austin, Texas 3239
+(30.302518001, -97.69830604)",$4.17/month PIE members $2/hr Non-Members,40A
+122,PARK BEND / CTBS STATION 2,2217 Park Bend Dr,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,CTBS Access,Workplace,General,J1772,240V,J1772,"2217 Park Bend Dr
+Austin, Texas 3646
+(30.407851995, -97.70396198)",$4.17/month PIE members $2/hr Non-Members,40A
+123,ENDEAVOR REG / STATION2,11001 Lakeline Blvd,,Austin,Texas,78717,2,,All Drivers,Workplace,General,J1772,240V,J1772,"11001 Lakeline Blvd
+Austin, Texas 2862
+(30.480061085, -97.794551746)",,40A
+124,REPUBLICSQUARE / GABLES REPUB2,217B W 4th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"217B W 4th St
+Austin, Texas 2856
+(30.266754972, -97.745698474)",$4.17/month PIE members $2/hr Non-Members,30A
+125,PIE AE / PUB CAMP MABRY1,2200 W 35th St.,Camp Mabry 1 mile track near cannons,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"2200 W 35th St.
+Austin, Texas 2858
+(30.310316985, -97.759284972)",$4.17/month PIE members $2/hr Non-Members,40A
+126,AVIATION / 4TH FLOOR B,3201a Presidential Blvd,,Austin,Texas,78719,2,,All Drivers,Parking,Airport,J1772,240V,J1772,"3201a Presidential Blvd
+Austin, Texas 2863
+(30.204258773, -97.670137162)",,40A
+127,PIE AE / MUELLERHQ P2-4,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,40A
+128,PIE AE / OTC 3FL PKGSTA2,505 BARTON springs rd.,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"505 BARTON springs rd.
+Austin, Texas 2859
+(30.257436019, -97.74927698)",$4.17/month PIE members $2/hr Non-Members,40A
+129,THE WEAVER / STATION 2,15 Waller St,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"15 Waller St
+Austin, Texas 2857
+(30.252293008, -97.733491006)",$4.17/month PIE members $2/hr Non-Members,40A
+130,FLORA / STATION 2,5406 Middle Fiskville Rd,,Austin,Texas,78751,2,,Flora Apartments,Multi-family Commercial,Apartment,J1772,240V,J1772,"5406 Middle Fiskville Rd
+Austin, Texas 3640
+(30.316845984, -97.714876979)",,40A
+131,ENDEAVOR REG / STATION 2,11001 Lakeline Blvd,,Austin,Texas,78717,2,,All Drivers,Workplace,General,J1772,240V,J1772,"11001 Lakeline Blvd
+Austin, Texas 2862
+(30.480061085, -97.794551746)",,40A
+132,ENDEAVOR REG / LEVEL 3 - #3,4301 Bull Creek Rd,,Austin,Texas,78731,2,,All Drivers,Workplace,General,J1772,240V,J1772,"4301 Bull Creek Rd
+Austin, Texas 3247
+(30.318010985, -97.753847967)",,40A
+133,HPE AUSTIN / TXN04 A,14231 Tandem Blvd,,Austin,Texas,78728,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"14231 Tandem Blvd
+Austin, Texas 3244
+(30.445355019, -97.690141982)",$4.17/month PIE members $2/hr Non-Members,40A
+134,INDEED TOWER / P6 - C,200 W 6th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W 6th St
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+135,NRP GROUP / DECKER 3,9000 Decker Ln,,Austin,Texas,78724,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,--,J1772,"9000 Decker Ln
+Austin, Texas 3240
+(30.316931019, -97.615761979)",$4.17/month PIE members $2/hr Non-Members,40A
+136,DOMAIN. / DOMAIN GW 4,2900 Esperanza Crossing,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"2900 Esperanza Crossing
+Austin, Texas 3646
+(30.399031006, -97.71997502)",,40A
+137,PIE AE / HEB 6EA1,1000 E 41st St,,Austin,Texas,78751,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"1000 E 41st St
+Austin, Texas 3640
+(30.30038598, -97.719401027)",$4.17/month PIE members $2/hr Non-Members,40A
+138,FROST / 1,106 E 6th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,Tenants,Parking,Commercial,J1772,240V,J1772,"106 E 6th St
+Austin, Texas 2856
+(30.268136985, -97.742301979)",$4.17/month PIE members $2/hr Non-Members,40A
+139,7700 PARMER / 7700 PARMER 2,7700 W PARMER LN,,Austin,Texas,78729,2,,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"7700 W PARMER LN
+Austin, Texas 3245
+(30.45749147, -97.750060269)",,40A
+140,FROST / 2,401 Congress,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,Tenants,Parking,Commercial,J1772,--,J1772,"401 Congress
+Austin, Texas 2856
+(30.266403984, -97.742786034)",$4.17/month PIE members $2/hr Non-Members,40A
+141,INDEED TOWER / P5 CORE ST 2,200 W 6th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W 6th St
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+142,AISD / AISD PAC #2,1500 Barbara Jordan Blvd,,Austin,Texas,78723,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"1500 Barbara Jordan Blvd
+Austin, Texas 3239
+(30.304542985, -97.702827993)",,40A
+143,OAK HILL ST 1&2 / OAK HILL 1,6701 Rialto Blvd,,Austin,Texas,78735,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"6701 Rialto Blvd
+Austin, Texas 3251
+(30.24824501, -97.860414981)",$4.17/month PIE members $2/hr Non-Members,40A
+144,DCMC GARAGE 3 / LVL3 RAMP,4910 Mueller Blvd,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4910 Mueller Blvd
+Austin, Texas 3239
+(30.302221994, -97.706071035)",,40A
+145,PIE AE / ANIMAL SERVICE1,7201 Levander Loop,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"7201 Levander Loop
+Austin, Texas 2864
+(30.252743997, -97.689318041)",$4.17/month PIE members $2/hr Non-Members,40A
+146,HANOVER / L5,110 San Antonio St,,Austin,Texas,78701,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"110 San Antonio St
+Austin, Texas 2856
+(30.26531199, -97.749484013)",$4.17/month PIE members $2/hr Non-Members,40A
+147,PARK&ZOOM / VALET #1,9518 Hotel Dr,,Austin,Texas,78719,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Airport,J1772,240V,J1772,"9518 Hotel Dr
+Austin, Texas 2863
+(30.211932862, -97.66293639)",$4.17/month PIE members $2/hr Non-Members,40A
+148,GALLERIA OAKS / GALLERIA OAKS 1,3927 Ranch Rd 620 S,,Austin,Texas,78738,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,--,J1772,"3927 Ranch Rd 620 S
+Austin, Texas 3254
+(30.313630016, -97.946162018)",$4.17/month PIE members $2/hr Non-Members,40A
+149,ACC-AE / NORTHRIDGE1,11928 Stonehollow,,Austin,Texas,78758,2,,All Drivers,Education,University / College,J1772,240V,J1772,"11928 Stonehollow
+Austin, Texas 3646
+(30.403440013, -97.704204972)",,40A
+150,ACC / AE HLC GAR 3F2,6018 WILHELMINA DELCO DR,,Austin,Texas,78752,2,,All Drivers,Education,University / College,J1772,240V,J1772,"6018 WILHELMINA DELCO DR
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+151,INDEED TOWER / P8 CORE ST 1,200 W 6th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W 6th St
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+152,AISD / CENTRAL OFFICE2,4000 S IH 35 Frontage Rd,,Austin,Texas,78704,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"4000 S IH 35 Frontage Rd
+Austin, Texas 2859
+(30.218614019, -97.753256959)",,40A
+153,OAKPOINT / STATION 1,1608 W 5th St,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"1608 W 5th St
+Austin, Texas 2858
+(30.274327984, -97.763754035)",$4.17/month PIE members $2/hr Non-Members,40A
+154,AVIATION / AUS - CMF 1,10100 Golfcourse Rd,,Austin,Texas,78719,2,,All Drivers,Municipal,Parks and Recreation (Public),J1772,240V,J1772,"10100 Golfcourse Rd
+Austin, Texas 2863
+(30.206619334, -97.652739264)",,40A
+155,HPI 3700 / EV 2,3700 N Capital of Texas Hwy,,Austin,Texas,78746,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"3700 N Capital of Texas Hwy
+Austin, Texas 3260
+(30.33672702, -97.806556978)",$4.17/month PIE members $2/hr Non-Members,40A
+156,TR DOMAIN 10 / COUSINS DOMAIN8,11815 Alterra Parkway,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,--,J1772,"11815 Alterra Parkway
+Austin, Texas 3646
+(30.403614985, -97.718629976)",$4.17/month PIE members $2/hr Non-Members,40A
+157,ACC / AE HLC GAR 1F1,6018 WILHELMINA DELCO DR,,Austin,Texas,78752,2,,All Drivers,Education,University / College,J1772,240V,J1772,"6018 WILHELMINA DELCO DR
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+158,HYATT PLACE / HP STATION 1,9532 Spirit of Austin Ln,,Austin,Texas,78719,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Hospitality,Hotel / Resort,J1772,240V,J1772,"9532 Spirit of Austin Ln
+Austin, Texas 2863
+(30.210609008, -97.665077996)",$4.17/month PIE members $2/hr Non-Members,30A
+159,120 ENTRANCE / ACH MAIN,2200 S. Interstate 35,,Austin,Texas,78704,2,,All Drivers,Hospitality,Hotel / Resort,J1772,240V,J1772,"2200 S. Interstate 35
+Austin, Texas 2859
+(30.235404018, -97.741481977)",,40A
+160,RIATA' / BUENAVISTA,12440 Alameda Trace Cir,,Austin,Texas,78727,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"12440 Alameda Trace Cir
+Austin, Texas 3243
+(30.429368005, -97.74347796)",$4.17/month PIE members $2/hr Non-Members,40A
+161,SAS / SAMSUNG 6,12100 samsung blvd,,Austin,Texas,78754,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"12100 samsung blvd
+Austin, Texas 3643
+(30.374996988, -97.637508995)",$4.17/month PIE members $2/hr Non-Members,40A
+162,TRAVIS FLATS / FLATS STATION 2,5325 Airport Blvd,,Austin,Texas,78751,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"5325 Airport Blvd
+Austin, Texas 3640
+(30.315193995, -97.714088996)",$4.17/month PIE members $2/hr Non-Members,40A
+163,PARMER AUSTIN / PIC #2,13011c McCallen Pass,,Austin,Texas,78753,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"13011c McCallen Pass
+Austin, Texas 3642
+(30.410209992, -97.661763959)",$4.17/month PIE members $2/hr Non-Members,40A
+164,AISD / TA BROWN,7801 Guadalupe St,,Austin,Texas,78752,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"7801 Guadalupe St
+Austin, Texas 3641
+(30.344816018, -97.70936001)",,40A
+165,YAUPON / STATION 1,7870 US-290,,Austin,Texas,78736,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"7870 US-290
+Austin, Texas 3252
+(30.229157112, -97.886764889)",$4.17/month PIE members $2/hr Non-Members,40A
+166,PIE AE / ACDC 1,2800 Spirit of Texas Dr,,Austin,Texas,78719,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"2800 Spirit of Texas Dr
+Austin, Texas 2863
+(30.21244498, -97.667243042)",$4.17/month PIE members $2/hr Non-Members,40A
+167,HPI 3700 / 3900 SC 3,3900 N Capital of Texas Hwy,,Austin,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"3900 N Capital of Texas Hwy
+Austin, Texas 3260
+(30.338488016, -97.807482005)",$4.17/month PIE members $2/hr Non-Members,40A
+168,WETT / 2,1901 Capital Pkwy,,Austin,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,Wind Energy Access,Workplace,High-Tech,J1772,240V,J1772,"1901 Capital Pkwy
+Austin, Texas 3260
+(30.25998001, -97.797983968)",$4.17/month PIE members $2/hr Non-Members,40A
+169,RIATA' / GREYMOSS,12400 Riata Trace Pkwy,,Austin,Texas,78727,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"12400 Riata Trace Pkwy
+Austin, Texas 3243
+(30.429504002, -97.74547696)",$4.17/month PIE members $2/hr Non-Members,40A
+170,INDEED TOWER / P7 SOUTH ST 2,200 W 6th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W 6th St
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+171,TR DOMAIN 10 / COUSINS DOMAIN1,11815 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"11815 Alterra Pkwy
+Austin, Texas 3646
+(30.403614985, -97.718629976)",$4.17/month PIE members $2/hr Non-Members,40A
+172,CHAMPION OFFICE / EV #1,6433 Champion Grandview Way,,Austin,Texas,78750,2,,Champion Office Park tenants,Parking,Commercial,J1772,240V,J1772,"6433 Champion Grandview Way
+Austin, Texas 3639
+(30.362670017, -97.792726)",,40A
+173,PIE AE / CTECC EVSE2,5010 Old Manor Rd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Municipal Workplace,J1772,240V,J1772,"5010 Old Manor Rd
+Austin, Texas 3239
+(30.300168009, -97.69433)",$4.17/month PIE members $2/hr Non-Members,40A
+174,LIFEAUSTIN HUB! / STATION 1,8901 TX-71,,Austin,Texas,78735,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"8901 TX-71
+Austin, Texas 3252
+(30.252836861, -97.899976325)",$4.17/month PIE members $2/hr Non-Members,40A
+175,NRP GROUP / LOYOLA 1,6200 Loyola Ln,,Austin,Texas,78724,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"6200 Loyola Ln
+Austin, Texas 3240
+(30.302478019, -97.650846028)",$4.17/month PIE members $2/hr Non-Members,40A
+176,PIE AE / PUB M STATION 1,2906 E Martin Luther King Jr Blvd,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Home Service,Apartment,J1772,240V,J1772,"2906 E Martin Luther King Jr Blvd
+Austin, Texas 2865
+(30.283659012, -97.708061988)",$4.17/month PIE members $2/hr Non-Members,40A
+177,DCMC GARAGE 3 / LVL5 RAMP,4910 Mueller Blvd,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4910 Mueller Blvd
+Austin, Texas 3239
+(30.302221994, -97.706071035)",,40A
+178,ENCINO STATIONS / STATION 2,5707 Southwest Pkwy,,Austin,Texas,78735,2,,All Drivers,Workplace,General,J1772,240V,J1772,"5707 Southwest Pkwy
+Austin, Texas 3251
+(30.244095004, -97.84453798)",,40A
+179,PIE AE / ZILKERPARKPOLO2,2225 Andrew Zilker Rd,,Austin,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parks and Recreation,,J1772,240V,J1772,"2225 Andrew Zilker Rd
+Austin, Texas 3260
+(30.26522398, -97.774194031)",$4.17/month PIE members $2/hr Non-Members,40A
+180,ENDEAVOR REG / LEVEL 4 - #3,4301 Bull Creek Rd,,Austin,Texas,78731,2,,All Drivers,Workplace,General,J1772,240V,J1772,"4301 Bull Creek Rd
+Austin, Texas 3247
+(30.318010985, -97.753847967)",,40A
+181,CAPMETRO / EVSE 05,41 N Pleasant Valley Rd,,Austin,Texas,78702,2,,All Drivers,Municipal,Municipal Fleet,J1772,240V,J1772,"41 N Pleasant Valley Rd
+Austin, Texas 2857
+(30.251137479, -97.713373951)",,40A
+182,MONOGRAM / PARKING 2-3,615 W 7th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"615 W 7th St
+Austin, Texas 2856
+(30.270491, -97.748857968)",$4.17/month PIE members $2/hr Non-Members,40A
+183,NALLE WOODS / STATION 1,4700 N Capital of Texas Hwy,,Austin,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"4700 N Capital of Texas Hwy
+Austin, Texas 3260
+(30.345614981, -97.802339959)",$4.17/month PIE members $2/hr Non-Members,40A
+184,16 / OAKVILLE APTS,7011 W Parmer Ln,,Austin,Texas,78729,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"7011 W Parmer Ln
+Austin, Texas 3245
+(30.450619608, -97.749803531)",,40A
+185,FOUNDATION COMM / JORDAN3,2724 Philomena St,,Austin,Texas,78723,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"2724 Philomena St
+Austin, Texas 3239
+(30.299243988, -97.694802991)",,40A
+186,PARKSIDE 1 / PARKSIDE1,3000 Kramer Ln,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"3000 Kramer Ln
+Austin, Texas 3646
+(30.396636003, -97.72313198)",$4.17/month PIE members $2/hr Non-Members,40A
+187,ENDEAVOR REG / VILL WESTLAKE 2,701 S Capital of Texas Hwy,,Austin,Texas,78746,2,,All Drivers,Parking,Commercial,J1772,240V,J1772,"701 S Capital of Texas Hwy
+Austin, Texas 3260
+(30.293001984, -97.827268996)",,40A
+188,DOMAIN / STATION 1,11601 Alterra Parkway,,Austin,Texas,78758,2,,All Drivers,Multi-family Commercial,Condominium,J1772,240V,J1772,"11601 Alterra Parkway
+Austin, Texas 3646
+(30.401981981, -97.71885503)",,40A
+189,AUSTIN FC / NINE,10414 Mc Kalla Pl,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10414 Mc Kalla Pl
+Austin, Texas 3646
+(30.387724992, -97.719413013)",,40A
+190,PARK PLAZA / STATION2,115 Sandra muraida way,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"115 Sandra muraida way
+Austin, Texas 2856
+(30.268112007, -97.754822028)",$4.17/month PIE members $2/hr Non-Members,40A
+191,OAKPOINT / STATION 2,1608 W 5th St,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"1608 W 5th St
+Austin, Texas 2858
+(30.274327984, -97.763754035)",$4.17/month PIE members $2/hr Non-Members,40A
+192,FOUNDATION COMM / JORDAN1,2724 Philomena St,,Austin,Texas,78723,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"2724 Philomena St
+Austin, Texas 3239
+(30.299243988, -97.694802991)",,40A
+193,ROSCOE PROPERTI / CURRENT MAIN,2057 Willow Creek Dr,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"2057 Willow Creek Dr
+Austin, Texas 3256
+(30.231802062, -97.729594399)",$4.17/month PIE members $2/hr Non-Members,40A
+194,NRP GROUP / LOYOLA 3,6200 Loyola Ln,,Austin,Texas,78724,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"6200 Loyola Ln
+Austin, Texas 3240
+(30.302478019, -97.650846028)",$4.17/month PIE members $2/hr Non-Members,40A
+195,NATIONAL INSTRU / 11&12;,11500 N Mopac Expy,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"11500 N Mopac Expy
+Austin, Texas 3647
+(30.406639008, -97.727892985)",$4.17/month PIE members $2/hr Non-Members,40A
+196,DCMC GARAGE 3 / L1 #13,4900 Mueller Boulevard,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Boulevard
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+197,FOUNDATION COMM / 8500LOT,8500 State Hwy 71,,Austin,Texas,78735,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"8500 State Hwy 71
+Austin, Texas 3251
+(30.248663016, -97.890177024)",,40A
+198,NEXUS EAST / STATION 2,720 Airport Blvd,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"720 Airport Blvd
+Austin, Texas 2857
+(30.252853003, -97.693278993)",$4.17/month PIE members $2/hr Non-Members,40A
+199,ENDEAVOR REG / 901 E 6TH ST 4,901 E 6th St,,Austin,Texas,78702,2,,All Drivers,Workplace,General,J1772,240V,J1772,"901 E 6th St
+Austin, Texas 2857
+(30.265159984, -97.733481032)",,40A
+200,ENDEAVOR REG / STATION1,11001 Lakeline Blvd,,Austin,Texas,78717,2,,All Drivers,Workplace,General,J1772,240V,J1772,"11001 Lakeline Blvd
+Austin, Texas 2862
+(30.480061085, -97.794551746)",,40A
+201,DSMCUT / EVSE02 FLOOR L6,501573 E 15th St,,Austin,Texas,78701,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"501573 E 15th St
+Austin, Texas 2856
+(30.275257241, -97.729358387)",,40A
+202,YETI RAMBLERS / EVSE #1,7601 Southwest Pkwy,William Cannon,Austin,Texas,78735,2,$4.17/month PIE members $2/hr Non-Members,Yeti Coolers,Workplace,General,J1772,240V,J1772,"7601 Southwest Pkwy
+Austin, Texas 3251
+(30.25580599, -97.872517024)",$4.17/month PIE members $2/hr Non-Members,40A
+203,NRP GROUP / DECKER 1,9000 Decker Ln,,Austin,Texas,78724,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"9000 Decker Ln
+Austin, Texas 3240
+(30.316931019, -97.615761979)",$4.17/month PIE members $2/hr Non-Members,40A
+204,PARK BEND / AUSTIN VASCULAR,2217 Park Bend Dr,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,Austin Vacular Access,Workplace,General,J1772,240V,J1772,"2217 Park Bend Dr
+Austin, Texas 3646
+(30.407851995, -97.70396198)",$4.17/month PIE members $2/hr Non-Members,40A
+205,515 CONGRESS / 515 CONGRESS P9,515 Congress Ave,,Austin,Texas,78701,2,,All Drivers,Parking,Commercial,J1772,240V,J1772,"515 Congress Ave
+Austin, Texas 2856
+(30.267649996, -97.742504989)",,40A
+206,PIE AE / PUB-STDAVIDSST1,710 Trinity St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"710 Trinity St
+Austin, Texas 2856
+(30.268812985, -97.739144013)",$4.17/month PIE members $2/hr Non-Members,40A
+207,PIE AE / PUBACCSOAUSTIN1,5517 Manchaca Rd,,Austin,Texas,78745,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"5517 Manchaca Rd
+Austin, Texas 3259
+(30.215906999, -97.796698016)",$4.17/month PIE members $2/hr Non-Members,40A
+208,ENDEAVOR REG / DEMONBREUN 1,1216 Demonbreun St,,Nashville,Tennessee,37203,2,,All Drivers,Workplace,General,J1772,240V,J1772,"1216 Demonbreun St
+Nashville, Tennessee 30406
+(36.154427019, -86.787545964)",,40A
+209,7700 PARMER / 7700 PARMER,7700 W Parmer Ln,,Austin,Texas,78729,2,,All Drivers,Workplace,General,J1772,240V,J1772,"7700 W Parmer Ln
+Austin, Texas 3245
+(30.45749147, -97.750060269)",,40A
+210,PALOMA RIDGE / PALOMA BDG C#5,13620 Ranch Rd 620 N,,Austin,Texas,78717,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,--,J1772,"13620 Ranch Rd 620 N
+Austin, Texas 2862
+(30.387240427, -97.903868619)",$4.17/month PIE members $2/hr Non-Members,40A
+211,FLATIRON DOMAIN / FLATIRON DOM 2,10727 domain dr,,Austin,Texas,78758,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"10727 domain dr
+Austin, Texas 3646
+(30.394296991, -97.725484026)",,40A
+212,TR DOMAIN 10 / COUSINS D10-1B,10902 Burnet Rd,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"10902 Burnet Rd
+Austin, Texas 3646
+(30.394263324, -97.720845577)",$4.17/month PIE members $2/hr Non-Members,40A
+213,RPP GARAGE / ISLAND GW,12301 Research Blvd,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"12301 Research Blvd
+Austin, Texas 3647
+(30.429288, -97.754653971)",$4.17/month PIE members $2/hr Non-Members,40A
+214,PIE AE / MUELLERHQ P1-3,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,40A
+215,DCMC GARAGE 3 / LL #4,4900 Mueller Boulevard,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Boulevard
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+216,AMD GO GREEN / P100 FL2 RIGHT,7171 Southwest Pkwy,,Austin,Texas,78735,2,,AMD Lone Star,Workplace,High-Tech,J1772,240V,J1772,"7171 Southwest Pkwy
+Austin, Texas 3251
+(30.251202984, -97.863350994)",,40A
+217,ENDEAVOR REG / 901 E 6TH ST 3,901 E 6th St,,Austin,Texas,78702,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"901 E 6th St
+Austin, Texas 2857
+(30.265159984, -97.733481032)",,40A
+218,ACC / AE HLC GAR 1F6,6018 WILHELMINA DELCO DR,,Austin,Texas,78752,2,,All Drivers,Education,University / College,J1772,240V,J1772,"6018 WILHELMINA DELCO DR
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+219,PARK&ZOOM / VALET #2,2601 Cardinal Loop,,Austin,Texas,78617,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Airport,J1772,240V,J1772,"2601 Cardinal Loop
+Austin, Texas 8002
+(30.213417993, -97.657223985)",$4.17/month PIE members $2/hr Non-Members,40A
+220,PIE AE / PUB ACC NRIDGE2,11928 Stonehollow Dr,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"11928 Stonehollow Dr
+Austin, Texas 3646
+(30.403440013, -97.704204972)",$4.17/month PIE members $2/hr Non-Members,30A
+221,PALOMA RIDGE / PALOMA BDG C#6,13620 N FM 620,,Austin,Texas,78717,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"13620 N FM 620
+Austin, Texas 2862
+(30.476522078, -97.77881028)",$4.17/month PIE members $2/hr Non-Members,40A
+222,MERITAGE / STATION 1,4500 Steiner Ranch Blvd,,Austin,Texas,78732,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"4500 Steiner Ranch Blvd
+Austin, Texas 3248
+(30.383176007, -97.87965103)",$4.17/month PIE members $2/hr Non-Members,40A
+223,AUSTIN DOT / PDC EV #4,6310 Wilhelmina Delco Drive,,Austin,Texas,78752,2,,All Drivers,Workplace,General,J1772,240V,J1772,"6310 Wilhelmina Delco Drive
+Austin, Texas 3641
+(30.26759, -97.74299)",,40A
+224,GUEST / CHARGER 2,900 E 10th St,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"900 E 10th St
+Austin, Texas 2857
+(30.269497996, -97.732107992)",$4.17/month PIE members $2/hr Non-Members,30A
+225,WEINSTEIN / BEXLEY LAKELINE,2801 S Lakeline Blvd,,Cedar Park,Texas,78613,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"2801 S Lakeline Blvd
+Cedar Park, Texas 3639
+(30.474758735, -97.809984674)",$4.17/month PIE members $2/hr Non-Members,40A
+226,OPHTHALMOLOGY / AUSTIN EYE STA1,1009 E 40th St,,Austin,Texas,78751,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,--,J1772,"1009 E 40th St
+Austin, Texas 3640
+(30.296500004, -97.719614011)",$4.17/month PIE members $2/hr Non-Members,40A
+227,NEXUS EAST / STATION 3,720 Airport Blvd,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"720 Airport Blvd
+Austin, Texas 2857
+(30.252853003, -97.693278993)",$4.17/month PIE members $2/hr Non-Members,40A
+228,PIE AE / TLC STATI0N 2,721 Barton Springs Rd,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,--,J1772,"721 Barton Springs Rd
+Austin, Texas 2859
+(30.258649006, -97.751976036)",$4.17/month PIE members $2/hr Non-Members,40A
+229,AUSTIN DOT / PDC EV #5,6310 Wilhelmina Delco Dr,,Austin,Texas,78752,2,,All Drivers,Workplace,General,J1772,240V,J1772,"6310 Wilhelmina Delco Dr
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+230,INDEED TOWER / STATION 5579,200 w 6th street,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"200 w 6th street
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+231,NATIONAL INSTRU / 7&8,11500 N Mopac Expy,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"11500 N Mopac Expy
+Austin, Texas 3647
+(30.406639008, -97.727892985)",$4.17/month PIE members $2/hr Non-Members,40A
+232,NATIONAL INSTRU / 17&18;,11500 N Mopac Expy,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"11500 N Mopac Expy
+Austin, Texas 3647
+(30.406639008, -97.727892985)",$4.17/month PIE members $2/hr Non-Members,40A
+233,PIE AE / PUBCHASEESCAL1,4301 Westbank Dr,,Austin,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,--,J1772,"4301 Westbank Dr
+Austin, Texas 3260
+(30.275248988, -97.81713603)",$4.17/month PIE members $2/hr Non-Members,40A
+234,PIE AE / ANIMAL SERVICE5,7201 Levander Loop,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"7201 Levander Loop
+Austin, Texas 2864
+(30.252743997, -97.689318041)",$4.17/month PIE members $2/hr Non-Members,30A
+235,ABIA RETAIL LLC / STATION 01,2901 Spirit of Texas Dr,,Austin,Texas,78719,2,,All Drivers,Retail,Shopping Center,J1772,240V,J1772,"2901 Spirit of Texas Dr
+Austin, Texas 2863
+(30.197721999, -97.661789021)",,40A
+236,PIE AE / PUB UTPICKLE2,10100 Burnet Rd,J. J. Pickle Research Campus,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Education,University / College,J1772,240V,J1772,"10100 Burnet Rd
+Austin, Texas 3646
+(30.387576004, -97.727587967)",$4.17/month PIE members $2/hr Non-Members,40A
+237,ROSCOE PROPERTI / THE CONNECTION,4404 E Oltorf St,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"4404 E Oltorf St
+Austin, Texas 3256
+(30.228630016, -97.724758991)",$4.17/month PIE members $2/hr Non-Members,40A
+238,REPUBLICSQUARE / GABLES REPUB1,311 W 5th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"311 W 5th St
+Austin, Texas 2856
+(30.267761015, -97.746479017)",$4.17/month PIE members $2/hr Non-Members,40A
+239,CZPROPERTIES / FLOOR 2 UNIT 1,1400 Lavaca St,,Austin,Texas,78701,2,,All Drivers,Workplace,General,J1772,240V,J1772,"1400 Lavaca St
+Austin, Texas 2856
+(30.277083996, -97.742725014)",,40A
+240,PIE AE / TECHNICENTER1,4101 Ed Bluestein Blvd,,Austin,Texas,78721,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"4101 Ed Bluestein Blvd
+Austin, Texas 3241
+(30.277691013, -97.66628499)",$4.17/month PIE members $2/hr Non-Members,40A
+241,DOMAIN TOWER 2 / LVL 2_STATION 2,10025 Alterra Pkwy,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10025 Alterra Pkwy
+Austin, Texas 3646
+(30.394621999, -97.722115003)",,40A
+242,UNICOPROPERTIES / LAVACA PLAZA 2,504 Lavaca St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"504 Lavaca St
+Austin, Texas 2856
+(30.268229018, -97.746006026)",$4.17/month PIE members $2/hr Non-Members,40A
+243,COLONIAL CTR HR / STATION 1,607 W 3rd St,,Austin,Texas,78703,2,,All Drivers,Workplace,General,J1772,240V,J1772,"607 W 3rd St
+Austin, Texas 2856
+(30.26670502, -97.750022969)",,40A
+244,AISD / AISD PAC #3,1500 Barbara Jordan Blvd,,Austin,Texas,78723,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"1500 Barbara Jordan Blvd
+Austin, Texas 3239
+(30.304542985, -97.702827993)",,40A
+245,PIE AE / NWRECCENTER 1,2913 Marilyn Dr,,Austin,Texas,78757,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parks and Recreation,,J1772,240V,J1772,"2913 Marilyn Dr
+Austin, Texas 3247
+(30.337572936, -97.752257304)",$4.17/month PIE members $2/hr Non-Members,40A
+246,DCMC GARAGE 3 / EV STATION 2,4924 Mueller/Barbara Jordan,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4924 Mueller/Barbara Jordan
+Austin, Texas 3239
+(30.30385548, -97.704084562)",,40A
+247,ACC / AE HLC GAR 2F1,6018 WILHELMINA DELCO DR,,Austin,Texas,78752,2,,All Drivers,Education,University / College,J1772,240V,J1772,"6018 WILHELMINA DELCO DR
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+248,TRAVIS FLATS / COUNTY STATION1,5335 Airport Blvd,,Austin,Texas,78751,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"5335 Airport Blvd
+Austin, Texas 3640
+(30.315147014, -97.713145026)",$4.17/month PIE members $2/hr Non-Members,40A
+249,DCMC GARAGE 3 / L1 #12,4900 Mueller Boulevard,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Boulevard
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+250,PIE AE / PDC LV1 CHRG#3,6310 Wilhelmina Delco Dr,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Municipal Fleet,J1772,240V,J1772,"6310 Wilhelmina Delco Dr
+Austin, Texas 3641
+(30.3166, -97.6575)",$4.17/month PIE members $2/hr Non-Members,40A
+251,AISD / CASIS 1,2710 Exposition Blvd,,Austin,Texas,78703,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"2710 Exposition Blvd
+Austin, Texas 2858
+(30.304544997, -97.765951016)",,40A
+252,COLONIAL CTR HR / STATION 2,607 W 3rd St,,Austin,Texas,78703,2,,All Drivers,Workplace,General,J1772,240V,J1772,"607 W 3rd St
+Austin, Texas 2856
+(30.26670502, -97.750022969)",,40A
+253,PIE AE / MUELLERHQ P1-2,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,40A
+254,NEIGHBORHOOD HO / 912 E11TH STAT1,901 Juniper St,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"901 Juniper St
+Austin, Texas 2857
+(30.270326003, -97.731023039)",$4.17/month PIE members $2/hr Non-Members,40A
+255,PIE AE / RUTHERFORDCAMP3,8301 Cameron Rd,,Austin,Texas,78754,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"8301 Cameron Rd
+Austin, Texas 3643
+(30.337343007, -97.680257036)",$4.17/month PIE members $2/hr Non-Members,40A
+256,PIE AE / CONVENTION CTR3,201 E 2nd St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"201 E 2nd St
+Austin, Texas 2856
+(30.263545001, -97.742439023)",$4.17/month PIE members $2/hr Non-Members,40A
+257,ENDEAVOR REG / LEVEL 4 - #1,4301 Bull Creek Rd,,Austin,Texas,78731,2,,All Drivers,Workplace,General,J1772,240V,J1772,"4301 Bull Creek Rd
+Austin, Texas 3247
+(30.318010985, -97.753847967)",,40A
+258,300W / 300 W 6TH,300 W 6th,,Austin,Texas,78701,2,,Tenants,Parking,Commercial,J1772,240V,J1772,"300 W 6th
+Austin, Texas 2856
+(30.269336016, -97.745612998)",,40A
+259,ENDEAVOR REG / LEVEL 2 - #2,4301 Bull Creek Rd,,Austin,Texas,78731,2,,All Drivers,Workplace,General,J1772,240V,J1772,"4301 Bull Creek Rd
+Austin, Texas 3247
+(30.318010985, -97.753847967)",,40A
+260,PIE AE / CONVENTION CTR2,201 E 2nd St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"201 E 2nd St
+Austin, Texas 2856
+(30.263545001, -97.742439023)",$4.17/month PIE members $2/hr Non-Members,40A
+261,NATIONAL INSTRU / 15&16;,11500 N Mopac Expy,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"11500 N Mopac Expy
+Austin, Texas 3647
+(30.406639008, -97.727892985)",$4.17/month PIE members $2/hr Non-Members,40A
+262,5TH & COLORADO / 5TH & COLORADO4,201 W 5th St,,Austin,Texas,78701,2,,All Drivers,Workplace,General,J1772,240V,J1772,"201 W 5th St
+Austin, Texas 2856
+(30.267339992, -97.745003969)",,40A
+263,NRP GROUP / LOYOLA 2,6200 Loyola Ln,,Austin,Texas,78724,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"6200 Loyola Ln
+Austin, Texas 3240
+(30.302478019, -97.650846028)",$4.17/month PIE members $2/hr Non-Members,40A
+264,PIE AE / OTC 3FL PKGSTA3,505 Barton Springs Rd,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"505 Barton Springs Rd
+Austin, Texas 2859
+(30.257436019, -97.74927698)",$4.17/month PIE members $2/hr Non-Members,40A
+265,GPT / GABLES 1,111 Sandra Muraida Way,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"111 Sandra Muraida Way
+Austin, Texas 2856
+(30.267467019, -97.754166982)",$4.17/month PIE members $2/hr Non-Members,40A
+266,SLEEP INN / SLEEP INN 1,8410 E Hwy 290,,Austin,Texas,78754,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Hospitality,Hotel / Resort,J1772,240V,J1772,"8410 E Hwy 290
+Austin, Texas 3643
+(30.329890992, -97.661432036)",$4.17/month PIE members $2/hr Non-Members,40A
+267,GPT / GPT 2,111 Sandra Muraida Way,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"111 Sandra Muraida Way
+Austin, Texas 2856
+(30.267467019, -97.754166982)",$4.17/month PIE members $2/hr Non-Members,
+268,ASHTON AUSTIN / STATION2,101 Colorado St,,Austin,Texas,78701,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"101 Colorado St
+Austin, Texas 2856
+(30.264166016, -97.74536196)",,40A
+269,ACC / AE HLC GAR 3F1,6018 WILHELMINA DELCO DR,,Austin,Texas,78752,2,,All Drivers,Education,University / College,J1772,240V,J1772,"6018 WILHELMINA DELCO DR
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+270,HABITAT SUITES / SINGLE PORT,500 E Highland Mall Blvd,,Austin,Texas,78752,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"500 E Highland Mall Blvd
+Austin, Texas 3641
+(30.329192989, -97.709052981)",$4.17/month PIE members $2/hr Non-Members,40A
+271,DOMAIN TOWER 2 / LVL 6_STATION 4,10025 Alterra Pkwy,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10025 Alterra Pkwy
+Austin, Texas 3646
+(30.394621999, -97.722115003)",,40A
+272,DCMC GARAGE 3 / STATION 40612,4910 Mueller Blvd,Parking garage,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4910 Mueller Blvd
+Austin, Texas 3239
+(30.302221994, -97.706071035)",,40A
+273,HANOVER / L3,110 San Antonio St,,Austin,Texas,78701,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,--,J1772,"110 San Antonio St
+Austin, Texas 2856
+(30.26531199, -97.749484013)",$4.17/month PIE members $2/hr Non-Members,40A
+274,AUSTIN DOT / PDC EV #2,6310 Wilhelmina Delco Drive,,Austin,Texas,78752,2,,All Drivers,Workplace,General,J1772,240V,J1772,"6310 Wilhelmina Delco Drive
+Austin, Texas 3641
+(30.26759, -97.74299)",,40A
+275,ENDEAVOR REG / VILL WESTLAKE 1,701 S Capital of Texas Hwy,,Austin,Texas,78746,2,,All Drivers,Parking,Commercial,J1772,240V,J1772,"701 S Capital of Texas Hwy
+Austin, Texas 3260
+(30.293001984, -97.827268996)",,40A
+276,HPI 3700 / EV 4,3700 N Capital of Texas Hwy,,Austin,Texas,78746,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"3700 N Capital of Texas Hwy
+Austin, Texas 3260
+(30.33672702, -97.806556978)",$4.17/month PIE members $2/hr Non-Members,40A
+277,AUSTIN / AUSTIN 200 2,200 W Cesar Chavez St,,Austin,Texas,78701,2,,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"200 W Cesar Chavez St
+Austin, Texas 2856
+(30.264410013, -97.746215992)",,40A
+278,STATION 1 / PLAZA-1,5001 Plaza on the Lake,,Austin,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"5001 Plaza on the Lake
+Austin, Texas 3260
+(30.348358001, -97.800441039)",$4.17/month PIE members $2/hr Non-Members,40A
+279,WETT / 1,1901 Capital Pkwy,,Austin,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,Wind Energy Access,Workplace,High-Tech,J1772,240V,J1772,"1901 Capital Pkwy
+Austin, Texas 3260
+(30.25998001, -97.797983968)",$4.17/month PIE members $2/hr Non-Members,40A
+280,INDEED TOWER / B2,210 W 6th St,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"210 W 6th St
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+281,GARAGE 1 / GARAGE ONE,5010 S Congress Ave,,Austin,Texas,78745,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"5010 S Congress Ave
+Austin, Texas 3259
+(30.211702008, -97.771919015)",$4.17/month PIE members $2/hr Non-Members,40A
+282,AQUILA / AQUILA BRDG PT1,6504 Bridge Point Pkwy,,Austin,Texas,78730,2,,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"6504 Bridge Point Pkwy
+Austin, Texas 3246
+(30.354967006, -97.802359992)",,40A
+283,SAS / SAMSUNG 3,12100 samsung blvd,,Austin,Texas,78754,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"12100 samsung blvd
+Austin, Texas 3643
+(30.374996988, -97.637508995)",$4.17/month PIE members $2/hr Non-Members,40A
+284,DCMC GARAGE 3 / LVL2 RAMP,4910 Mueller Blvd,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4910 Mueller Blvd
+Austin, Texas 3239
+(30.302221994, -97.706071035)",,40A
+285,SILVER DOLLAR 1 / VAPRO SUPPLY,3600 Silver Dollar Cir,,Austin,Texas,78744,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"3600 Silver Dollar Cir
+Austin, Texas 3258
+(30.206563985, -97.711263037)",$4.17/month PIE members $2/hr Non-Members,40A
+286,DCMC GARAGE 3 / EV STATION 10,4924 Mueller/Barbara Jordan,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4924 Mueller/Barbara Jordan
+Austin, Texas 3239
+(30.30385548, -97.704084562)",,40A
+287,AISD / LANIER1,1201 Payton gin rd.,,Austin,Texas,78758,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"1201 Payton gin rd.
+Austin, Texas 3646
+(30.360306991, -97.708061988)",,40A
+288,RPP GARAGE / GARAGE 2,12455 Research Park Loop,,Austin,Texas,78727,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"12455 Research Park Loop
+Austin, Texas 3647
+(30.429688573, -97.75406753)",$4.17/month PIE members $2/hr Non-Members,40A
+289,PIE AE / OTC 3FL PKGSTA1,505 BARTON springs rd.,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"505 BARTON springs rd.
+Austin, Texas 2859
+(30.257436019, -97.74927698)",$4.17/month PIE members $2/hr Non-Members,40A
+290,ACC / AE HLC GAR 1F2,6018 WILHELMINA DELCO DR,,Austin,Texas,78752,2,,All Drivers,Education,University / College,J1772,240V,J1772,"6018 WILHELMINA DELCO DR
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+291,PIE AE / PUBACCRIVERSID1,1230-1290 Grove Blvd,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"1230-1290 Grove Blvd
+Austin, Texas 3256
+(30.233323315, -97.705501266)",$4.17/month PIE members $2/hr Non-Members,40A
+292,REPUBLICSQUARE / GABLES REPUB4,219 W 4th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"219 W 4th St
+Austin, Texas 2856
+(30.26654698, -97.745821037)",$4.17/month PIE members $2/hr Non-Members,40A
+293,PARK&ZOOM / VALET #3,9518 Hotel Dr,,Austin,Texas,78719,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Airport,J1772,--,J1772,"9518 Hotel Dr
+Austin, Texas 2863
+(30.211932862, -97.66293639)",$4.17/month PIE members $2/hr Non-Members,40A
+294,BV LAKEWAY / STATION1,107 Bella Montagna Cir,,Lakeway,Texas,78734,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"107 Bella Montagna Cir
+Lakeway, Texas 3250
+(30.358756003, -97.958614006)",,40A
+295,FOUNDRY / STATION 2,310 Comal St,,Austin,Texas,78702,2,,All Drivers,Workplace,General,J1772,240V,J1772,"310 Comal St
+Austin, Texas 2857
+(30.261140987, -97.728030029)",,40A
+296,PIE AE / HOWSONBRCHLIBR2,2500 Exposition blvd,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Library,J1772,240V,J1772,"2500 Exposition blvd
+Austin, Texas 2858
+(30.298259994, -97.76762396)",$4.17/month PIE members $2/hr Non-Members,40A
+297,HPI 3700 / 3900 SC 4,3900 N Capital of Texas Hwy,,Austin,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"3900 N Capital of Texas Hwy
+Austin, Texas 3260
+(30.338488016, -97.807482005)",$4.17/month PIE members $2/hr Non-Members,40A
+298,NATIONAL INSTRU / 23&24;,11500B N Mopac Expy,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"11500B N Mopac Expy
+Austin, Texas 3647
+(30.406639008, -97.727892985)",$4.17/month PIE members $2/hr Non-Members,40A
+299,PIE AE / WALNUTCREEKPRK1,Walnut Creek Park Rd,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parks and Recreation,,J1772,240V,J1772,"Walnut Creek Park Rd
+Austin, Texas 3646
+(30.40148815, -97.684502031)",$4.17/month PIE members $2/hr Non-Members,40A
+300,7700 PARMER / 7700 PARMER 3,7700 W PARMER LN,,Austin,Texas,78729,2,,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"7700 W PARMER LN
+Austin, Texas 3245
+(30.45749147, -97.750060269)",,40A
+301,PARK&ZOOM / VALET #6,9518 Hotel Dr,,Austin,Texas,78719,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Airport,J1772,240V,J1772,"9518 Hotel Dr
+Austin, Texas 2863
+(30.211932862, -97.66293639)",$4.17/month PIE members $2/hr Non-Members,40A
+302,DCMC GARAGE 3 / L1 #10,4900 Mueller Boulevard,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Boulevard
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+303,DSMCUT / EVSE05 FLOOR L3,501573 E 15th St,,Austin,Texas,78701,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"501573 E 15th St
+Austin, Texas 2856
+(30.275257241, -97.729358387)",,40A
+304,SIENNATHOMPSON / #3,501 Brazos St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"501 Brazos St
+Austin, Texas 2856
+(30.266868007, -97.741174026)",$4.17/month PIE members $2/hr Non-Members,40A
+305,PIE AE / ROSEWOOD PARK1,1182 N Pleasant Valley Rd,Rosewood Neighborhood Park Pedestrian Walkway,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parks and Recreation,,J1772,240V,J1772,"1182 N Pleasant Valley Rd
+Austin, Texas 2857
+(30.271789986, -97.714358977)",$4.17/month PIE members $2/hr Non-Members,40A
+306,1500 ROYAL / ELEMENT AUSTIN,1500 Royal Crest Dr,,Austin,Texas,78741,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"1500 Royal Crest Dr
+Austin, Texas 3256
+(30.240874007, -97.730401018)",,40A
+307,HANOVER / L2,100-110 San Antonio St,,Austin,Texas,78701,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"100-110 San Antonio St
+Austin, Texas 2856
+(30.26531199, -97.749484013)",$4.17/month PIE members $2/hr Non-Members,40A
+308,ACC / AE HLC GAR 1F3,6018 WILHELMINA DELCO DR,,Austin,Texas,78752,2,,All Drivers,Education,University / College,J1772,240V,J1772,"6018 WILHELMINA DELCO DR
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+309,ZOEY AUSTIN / ZOEY - LEVEL 5,5700 E Riverside Dr,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"5700 E Riverside Dr
+Austin, Texas 3256
+(30.228463006, -97.709738034)",$4.17/month PIE members $2/hr Non-Members,40A
+310,GALLERIA OAKS / GALLERIA OAKS 2,3927 Ranch Rd 620 S,,Austin,Texas,78738,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"3927 Ranch Rd 620 S
+Austin, Texas 3254
+(30.313630016, -97.946162018)",$4.17/month PIE members $2/hr Non-Members,40A
+311,THE BOWIE / STATION 01,311 Bowie St,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"311 Bowie St
+Austin, Texas 2856
+(30.269150986, -97.752987984)",$4.17/month PIE members $2/hr Non-Members,40A
+312,STEINER RANCH / EV CHARGER #1,4800 Steiner Ranch Blvd,,Austin,Texas,78732,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"4800 Steiner Ranch Blvd
+Austin, Texas 3248
+(30.382748991, -97.873827032)",$4.17/month PIE members $2/hr Non-Members,40A
+313,PIE AE / TACARASR1,4306 N Quinlan Park Rd,,Austin,Texas,78732,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"4306 N Quinlan Park Rd
+Austin, Texas 3248
+(30.386425001, -97.889055022)",$4.17/month PIE members $2/hr Non-Members,40A
+314,AXO GROUP LLC / AUSTIN CHARGE,601 Brushy St,,Austin,Texas,78702,2,,All Drivers,Workplace,General,J1772,240V,J1772,"601 Brushy St
+Austin, Texas 2857
+(30.265557999, -97.733206021)",,40A
+315,DCMC GARAGE 3 / EV STATION 6,4924 Mueller/Barbara Jordan,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4924 Mueller/Barbara Jordan
+Austin, Texas 3239
+(30.30385548, -97.704084562)",,40A
+316,PARK BEND / NORTHSTAR SURG,2217 Park Bend Dr,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,NorthStar Surgery Access,Workplace,General,J1772,240V,J1772,"2217 Park Bend Dr
+Austin, Texas 3646
+(30.407851995, -97.70396198)",$4.17/month PIE members $2/hr Non-Members,40A
+317,COA / NEWCENTRALLIB1,710 W Cesar Chavez St,,Austin,Texas,78701,2,,All Drivers,Municipal,Library,J1772,240V,J1772,"710 W Cesar Chavez St
+Austin, Texas 2856
+(30.266101984, -97.751692979)",,40A
+318,5TH & COLORADO / 5TH & COLORADO3,201 W 5th St,,Austin,Texas,78701,2,,All Drivers,Workplace,General,J1772,240V,J1772,"201 W 5th St
+Austin, Texas 2856
+(30.267339992, -97.745003969)",,40A
+319,ABOR / PARKING_P3,4800 Spicewood Springs Rd,Level P3,Austin,Texas,78759,2,,All Drivers,Workplace,General,J1772,240V,J1772,"4800 Spicewood Springs Rd
+Austin, Texas 3647
+(30.376460008, -97.76305599)",,40A
+320,PALOMA RIDGE / PALOMA1,13620 Ranch Rd 620,,Austin,Texas,78717,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"13620 Ranch Rd 620
+Austin, Texas 2862
+(30.387240427, -97.903868619)",$4.17/month PIE members $2/hr Non-Members,40A
+321,HPI 3700 / EV 1,3700 N Capital of Texas Hwy,,Austin,Texas,78746,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"3700 N Capital of Texas Hwy
+Austin, Texas 3260
+(30.33672702, -97.806556978)",$4.17/month PIE members $2/hr Non-Members,40A
+322,WEINSTEIN / 3 FIVE,8003 S IH 35 Frontage Rd,,Austin,Texas,78744,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"8003 S IH 35 Frontage Rd
+Austin, Texas 3258
+(30.176934512, -97.779006037)",$4.17/month PIE members $2/hr Non-Members,40A
+323,NRP GROUP / DECKER 4,7904 Dalmatian Ln,,Austin,Texas,78724,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"7904 Dalmatian Ln
+Austin, Texas 3240
+(30.31792901, -97.621054984)",$4.17/month PIE members $2/hr Non-Members,40A
+324,UNICOPROPERTIES / LAVACA PLAZA 1,504 Lavaca St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"504 Lavaca St
+Austin, Texas 2856
+(30.268229018, -97.746006026)",$4.17/month PIE members $2/hr Non-Members,40A
+325,COA / DOA - CONRAC1,3819 Presidential Blvd,,Austin,Texas,78719,2,,All Drivers,Retail,Car Rental / Car Share,J1772,240V,J1772,"3819 Presidential Blvd
+Austin, Texas 2863
+(30.197721999, -97.661789021)",,40A
+326,AISD / AISD PAC #4,1500 Barbara Jordan Blvd,,Austin,Texas,78723,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"1500 Barbara Jordan Blvd
+Austin, Texas 3239
+(30.304542985, -97.702827993)",,40A
+327,PIE AE / PALMER STATION3,800 Barton Springs Rd,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"800 Barton Springs Rd
+Austin, Texas 2859
+(30.2592972, -97.752574566)",$4.17/month PIE members $2/hr Non-Members,40A
+328,LANTANA HILLS / LANTANA #1,6601 Rialto Blvd,,Austin,Texas,78735,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"6601 Rialto Blvd
+Austin, Texas 3251
+(30.246534012, -97.858179024)",$4.17/month PIE members $2/hr Non-Members,40A
+329,PIE AE / PUB UTANTONIO 2,2420 San Antonio St,,Austin,Texas,78705,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"2420 San Antonio St
+Austin, Texas 2860
+(30.288792006, -97.742651001)",$4.17/month PIE members $2/hr Non-Members,
+330,GUEST / CHARGER 1,901 E 11th St,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"901 E 11th St
+Austin, Texas 2857
+(30.269904741, -97.731405264)",$4.17/month PIE members $2/hr Non-Members,40A
+331,AISD / BLAZIER 1,6219 Baythorne Dr,,Austin,Texas,78747,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"6219 Baythorne Dr
+Austin, Texas 3261
+(30.151872472, -97.749052832)",,40A
+332,PALOMA RIDGE / PALOMA BDG C #2,13620 Ranch Rd 620 N,,Austin,Texas,78717,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"13620 Ranch Rd 620 N
+Austin, Texas 2862
+(30.387240427, -97.903868619)",$4.17/month PIE members $2/hr Non-Members,40A
+333,INDEED TOWER / P5 CORE ST 1,200 W. 6th Street,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W. 6th Street
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+334,CHAMPION OFFICE / EV #2,6433 Champion Grandview Way,,Austin,Texas,78750,2,,Champion Office Park tenants,Parking,Commercial,J1772,240V,J1772,"6433 Champion Grandview Way
+Austin, Texas 3639
+(30.362670017, -97.792726)",,40A
+335,FLATIRON DOMAIN / FLATIRON DOM 1,10727 Domain Dr,,Austin,Texas,78758,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"10727 Domain Dr
+Austin, Texas 3646
+(30.394296991, -97.725484026)",,40A
+336,PIE AE / MUELLERHQ P2-1,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,
+337,PIE AE / ANIMAL SERVICE4,7201 Levander Loop,,Austin,Texas,78721,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"7201 Levander Loop
+Austin, Texas 2864
+(30.252743997, -97.689318041)",$4.17/month PIE members $2/hr Non-Members,40A
+338,PARK&ZOOM / VALET #5,9518 Hotel Dr,,Austin,Texas,78719,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Airport,J1772,240V,J1772,"9518 Hotel Dr
+Austin, Texas 2863
+(30.211932862, -97.66293639)",$4.17/month PIE members $2/hr Non-Members,40A
+339,LEASING OFFICE / STATION 1,8000 US-290,,Austin,Texas,78737,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"8000 US-290
+Austin, Texas 3252
+(30.229517395, -97.890967465)",$4.17/month PIE members $2/hr Non-Members,40A
+340,1224 E 12 / PAD STATION 1,1224 E 12th St,,Austin,Texas,78702,2,,All Drivers,Workplace,General,J1772,240V,J1772,"1224 E 12th St
+Austin, Texas 2857
+(30.272879005, -97.726713986)",,40A
+341,OWNER / TRAMMELL CROW 6,500 W 2nd St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"500 W 2nd St
+Austin, Texas 2856
+(30.266027008, -97.749197016)",$4.17/month PIE members $2/hr Non-Members,40A
+342,AISD / CENTRAL OFFICE3,4000 S IH 35 Frontage Rd,,Austin,Texas,78704,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"4000 S IH 35 Frontage Rd
+Austin, Texas 2859
+(30.218614019, -97.753256959)",,40A
+343,DSMCUT / EVSE01 FLOOR L7,501573 E 15th St,,Austin,Texas,78701,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"501573 E 15th St
+Austin, Texas 2856
+(30.275257241, -97.729358387)",,40A
+344,GIBSON FLATS / STATION1,1219 S Lamar Blvd,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"1219 S Lamar Blvd
+Austin, Texas 2859
+(30.254150019, -97.761700972)",$4.17/month PIE members $2/hr Non-Members,40A
+345,AUSTIN DOT / PDC EV #1,6310 Wilhelmina Delco Drive,,Austin,Texas,78752,2,,All Drivers,Workplace,General,J1772,240V,J1772,"6310 Wilhelmina Delco Drive
+Austin, Texas 3641
+(30.26759, -97.74299)",,40A
+346,CZPROPERTIES / FLOOR 3 UNIT 2,1400 Lavaca St,,Austin,Texas,78701,2,,All Drivers,Workplace,General,J1772,240V,J1772,"1400 Lavaca St
+Austin, Texas 2856
+(30.277083996, -97.742725014)",,40A
+347,DOMAIN TOWER 2 / LVL 5 STATION 2,10025 Alterra Pkwy,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10025 Alterra Pkwy
+Austin, Texas 3646
+(30.394621999, -97.722115003)",,40A
+348,DCMC GARAGE 3 / EV STATION 7,4924 Mueller/Barbara Jordan,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4924 Mueller/Barbara Jordan
+Austin, Texas 3239
+(30.30385548, -97.704084562)",,40A
+349,5000 PLAZA / POTL 1,5000 Plaza on the Lake,,Austin,Texas,78746,2,,All Drivers,Workplace,General,J1772,240V,J1772,"5000 Plaza on the Lake
+Austin, Texas 3260
+(30.349037983, -97.801639986)",,40A
+350,ENDEAVOR REG / LEVEL 2 - #1,4301 Bull Creek Rd,,Austin,Texas,78731,2,,All Drivers,Workplace,General,J1772,240V,J1772,"4301 Bull Creek Rd
+Austin, Texas 3247
+(30.318010985, -97.753847967)",,40A
+351,ST. JOHNS WEST / JOHNS E,601 W St Johns Ave,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"601 W St Johns Ave
+Austin, Texas 3641
+(30.337705985, -97.71480699)",$4.17/month PIE members $2/hr Non-Members,40A
+352,PIE AE / ANIMAL SERVICE2,7201 Levander Loop,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"7201 Levander Loop
+Austin, Texas 2864
+(30.252743997, -97.689318041)",$4.17/month PIE members $2/hr Non-Members,40A
+353,FOUNDATION COMM / 11704NLAMAR2,11709 N Lamar Blvd,,Austin,Texas,78753,2,,All Drivers,Multi-family Commercial,Condominium,J1772,240V,J1772,"11709 N Lamar Blvd
+Austin, Texas 3646
+(30.38725433, -97.683724966)",,40A
+354,DOMAIN. / DOMAIN TW 01,10721 Domain Drive,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10721 Domain Drive
+Austin, Texas 3646
+(30.392804006, -97.722992002)",,40A
+355,DCMC GARAGE 3 / LL #1,4900 Mueller Boulevard,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Boulevard
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+356,BURNET FLATS / BURNET FLATS G1,5453 Burnet Rd,,Austin,Texas,78756,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"5453 Burnet Rd
+Austin, Texas 3644
+(30.330112986, -97.739581968)",,40A
+357,NRP GROUP / MARTINGALE 2,8100 S Congress Ave,,Austin,Texas,78748,2,$4.17/month PIE members $2/hr Non-Members,The Martingale Access Policy,Multi-family Commercial,Apartment,J1772,240V,J1772,"8100 S Congress Ave
+Austin, Texas 3637
+(30.178167983, -97.785250013)",$4.17/month PIE members $2/hr Non-Members,40A
+358,PIE AE / PUBHILL.CGAL2,12701 Hill Country Blvd,,Bee Cave,Texas,78738,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"12701 Hill Country Blvd
+Bee Cave, Texas 3254
+(30.308093014, -97.939045028)",$4.17/month PIE members $2/hr Non-Members,40A
+359,INDEED TOWER / B3 CORE- ST 1,200 W 6th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W 6th St
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+360,AMD GO GREEN / P300 FL2,7171 Southwest Pkwy,,Austin,Texas,78735,2,,AMD Lone Star,Workplace,High-Tech,J1772,240V,J1772,"7171 Southwest Pkwy
+Austin, Texas 3251
+(30.251202984, -97.863350994)",,40A
+361,PIE AE / MILWOOD LIB 1,12500 Amherst Dr,,Austin,Texas,78727,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"12500 Amherst Dr
+Austin, Texas 3243
+(30.42233299, -97.716188998)",$4.17/month PIE members $2/hr Non-Members,40A
+362,DOMAIN. / DOMAIN TW 04,10721 Domain Drive,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10721 Domain Drive
+Austin, Texas 3646
+(30.392804006, -97.722992002)",,40A
+363,5TH & COLORADO / 5TH & COLORADO1,201 W 5th St,,Austin,Texas,78701,2,,All Drivers,Workplace,General,J1772,240V,J1772,"201 W 5th St
+Austin, Texas 2856
+(30.267339992, -97.745003969)",,40A
+364,YETI RAMBLERS / EVSE4,7601 Southwest Pkwy,,Austin,Texas,78735,2,$4.17/month PIE members $2/hr Non-Members,Yeti Coolers,Workplace,General,J1772,240V,J1772,"7601 Southwest Pkwy
+Austin, Texas 3251
+(30.25580599, -97.872517024)",$4.17/month PIE members $2/hr Non-Members,40A
+365,1801 E 6TH / AUSTIN 1801 1,1805 E 6th St,,Austin,Texas,78702,2,,All Drivers,Parking,Commercial,J1772,240V,J1772,"1805 E 6th St
+Austin, Texas 2857
+(30.26175098, -97.723689963)",,40A
+366,HAWTHORNE / STATION 1,2239 Cromwell Cir,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"2239 Cromwell Cir
+Austin, Texas 3256
+(30.228374996, -97.718498967)",$4.17/month PIE members $2/hr Non-Members,40A
+367,GALLERY DOMAIN / GALLERY DOMAIN,11100 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"11100 Alterra Pkwy
+Austin, Texas 3646
+(30.39582728, -97.721956459)",$4.17/month PIE members $2/hr Non-Members,40A
+368,AISD / TRAVIS2,1211 E Oltorf St.,,Austin,Texas,78704,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"1211 E Oltorf St.
+Austin, Texas 2859
+(30.233693021, -97.744263009)",,40A
+369,PIE AE / MUELLERHQ P3-1,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,40A
+370,AUSTIN DOT / PDC EV #8,6310 Wilhelmina Delco Drive,,Austin,Texas,78752,2,,All Drivers,Workplace,General,J1772,240V,J1772,"6310 Wilhelmina Delco Drive
+Austin, Texas 3641
+(30.26759, -97.74299)",,40A
+371,LAMARHEIGHTS-AE / LAMAR 1,5400 N Lamar Blvd,,Austin,Texas,78751,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"5400 N Lamar Blvd
+Austin, Texas 3644
+(30.321987989, -97.729453024)",$4.17/month PIE members $2/hr Non-Members,40A
+372,HEB / OFF NETWORK 1,2000 Ranch Rd 620 S,,Lakeway,Texas,78734,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Retail,Big Box / Superstore,J1772,240V,J1772,"2000 Ranch Rd 620 S
+Lakeway, Texas 3250
+(30.344797997, -97.968195024)",$4.17/month PIE members $2/hr Non-Members,
+373,DOMAIN. / DOMAIN TW 02,10721 Domain Drive,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10721 Domain Drive
+Austin, Texas 3646
+(30.392804006, -97.722992002)",,40A
+374,PIE AE / TLC STATION 1,721 Barton Springs Rd,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"721 Barton Springs Rd
+Austin, Texas 2859
+(30.258649006, -97.751976036)",$4.17/month PIE members $2/hr Non-Members,40A
+375,SAS / STATION 1,12100 Samsung Blvd,,Austin,Texas,78754,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"12100 Samsung Blvd
+Austin, Texas 3643
+(30.374996988, -97.637508995)",$4.17/month PIE members $2/hr Non-Members,40A
+376,PIE AE / PALMER STATION8,846888 Barton Springs Rd,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"846888 Barton Springs Rd
+Austin, Texas 2859
+(30.267041431, -97.770683881)",$4.17/month PIE members $2/hr Non-Members,40A
+377,3600WESTPARMER! / STATION 1,3600 W Parmer Ln,,Austin,Texas,78727,2,,All Drivers,Retail,Shopping Center,J1772,240V,J1772,"3600 W Parmer Ln
+Austin, Texas 3243
+(30.424233, -97.71010097)",,40A
+378,COA / LOT J SW,10200 Hotel Drive,,Austin,Texas,78719,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10200 Hotel Drive
+Austin, Texas 2863
+(30.205143291, -97.660903055)",,40A
+379,HEB / HEB LAKEWAY #2,2000 Ranch Rd 620 S,,Lakeway,Texas,78734,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Retail,Big Box / Superstore,J1772,240V,J1772,"2000 Ranch Rd 620 S
+Lakeway, Texas 3250
+(30.344797997, -97.968195024)",$4.17/month PIE members $2/hr Non-Members,40A
+380,PIE AE / ZILKERPARKPOLO1,2225 Andrew Zilker Rd,,Austin,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parks and Recreation,,J1772,240V,J1772,"2225 Andrew Zilker Rd
+Austin, Texas 3260
+(30.26522398, -97.774194031)",$4.17/month PIE members $2/hr Non-Members,40A
+381,DOMAIN / LEFT STATION,11501 Alterra Pkwy,,Austin,Texas,78758,1,,All Drivers,Multi-family Commercial,Condominium,J1772,240V,J1772,"11501 Alterra Pkwy
+Austin, Texas 3646
+(30.400938015, -97.719188965)",,40A
+382,PIE AE / TRAVIS CO L2,316 W 8th St,,Austin,Texas,78701,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"316 W 8th St
+Austin, Texas 2856
+(30.270844446, -97.745155983)",$4.17/month PIE members $2/hr Non-Members,40A
+383,ENDEAVOR REG / 2500 BEE CAVES3,2500 Bee Caves Rd.,,Austin,Texas,78746,2,,Tenant Only,Workplace,General,J1772,240V,J1772,"2500 Bee Caves Rd.
+Austin, Texas 3260
+(30.268663997, -97.784114013)",,40A
+384,AMD GO GREEN / P100 FL4 OUTER,7171 Southwest Pkwy,,Austin,Texas,78735,2,,AMD Lone Star,Workplace,High-Tech,J1772,240V,J1772,"7171 Southwest Pkwy
+Austin, Texas 3251
+(30.251202984, -97.863350994)",,40A
+385,ACC / AE HLC GAR 4F1,6018 WILHELMINA DELCO DR,,Austin,Texas,78752,2,,All Drivers,Education,University / College,J1772,240V,J1772,"6018 WILHELMINA DELCO DR
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+386,PIE AE / PUB ACC EVIEW2,3401 Webberville Rd,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"3401 Webberville Rd
+Austin, Texas 2857
+(30.268334001, -97.706759021)",$4.17/month PIE members $2/hr Non-Members,40A
+387,ZOEY AUSTIN / ZOEY - LEVEL 3,5700 E Riverside Dr,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,--,J1772,"5700 E Riverside Dr
+Austin, Texas 3256
+(30.228463006, -97.709738034)",$4.17/month PIE members $2/hr Non-Members,40A
+388,LADERA BEND / GATED GARAGE GW,7300 Ranch Rd 2222,,Austin,Texas,78730,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"7300 Ranch Rd 2222
+Austin, Texas 3639
+(30.372443986, -97.802253039)",$4.17/month PIE members $2/hr Non-Members,40A
+389,PIE AE / PUBWYNDHAMGARD1,1600 Woodward St,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"1600 Woodward St
+Austin, Texas 3256
+(30.223015898, -97.746966312)",$4.17/month PIE members $2/hr Non-Members,40A
+390,DCMC GARAGE 3 / EV STATION 3,4924 Mueller/Barbara Jordan,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4924 Mueller/Barbara Jordan
+Austin, Texas 3239
+(30.30385548, -97.704084562)",,40A
+391,PIE AE / SMART CHARGE 2,2016 Centimeter Cir,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"2016 Centimeter Cir
+Austin, Texas 3646
+(30.381075, -97.71429804)",$4.17/month PIE members $2/hr Non-Members,40A
+392,AISD / KEALING1,1607 Pennsylvania Ave,,Austin,Texas,78702,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"1607 Pennsylvania Ave
+Austin, Texas 2857
+(30.270961016, -97.721416036)",,40A
+393,PIE AE / PALMER STATION5,736 Barton Springs Rd,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"736 Barton Springs Rd
+Austin, Texas 2859
+(30.258956588, -97.751607096)",$4.17/month PIE members $2/hr Non-Members,40A
+394,WEINSTEIN / ANDERSON 1,8601 Anderson Mill Rd,,Austin,Texas,78729,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"8601 Anderson Mill Rd
+Austin, Texas 3245
+(30.455280491, -97.767938365)",$4.17/month PIE members $2/hr Non-Members,40A
+395,AMD GO GREEN / P100 FL3 LEFT,7171 Southwest Pkwy,,Austin,Texas,78735,2,,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"7171 Southwest Pkwy
+Austin, Texas 3251
+(30.251202984, -97.863350994)",,40A
+396,WEINSTEIN / TECH RIDGE 1,1304 FM734,,Austin,Texas,78753,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"1304 FM734
+Austin, Texas 3642
+(30.392186056, -97.652810192)",$4.17/month PIE members $2/hr Non-Members,40A
+397,FLORA / STATION 1,5406 Middle Fiskville Rd,,Austin,Texas,78751,2,,Flora Apartments,Multi-family Commercial,Apartment,J1772,240V,J1772,"5406 Middle Fiskville Rd
+Austin, Texas 3640
+(30.316845984, -97.714876979)",,40A
+398,ENDEAVOR REG / 2500 BEE CAVES2,2500 Bee Caves Rd.,,Austin,Texas,78746,2,,Tenant Only,Workplace,General,J1772,240V,J1772,"2500 Bee Caves Rd.
+Austin, Texas 3260
+(30.268663997, -97.784114013)",,40A
+399,PRESIDIUM / VIOLET,409 E William Cannon Dr,,Austin,Texas,78745,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"409 E William Cannon Dr
+Austin, Texas 3259
+(30.191019997, -97.775542009)",$4.17/month PIE members $2/hr Non-Members,40A
+400,INDEED TOWER / B2-NG,200 W 6TH ST,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W 6TH ST
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+401,PIE AE / MUELLERHQ P2-8,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,40A
+402,SUSTAINABLEFOOD / SUSTAINABLEFOOD,2921 E 17th St,,Austin,Texas,78702,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"2921 E 17th St
+Austin, Texas 2857
+(30.277994983, -97.710082027)",$4.17/month PIE members $2/hr Non-Members,40A
+403,LADERA BEND / GATED GARAGE 2,7300 Ranch Rd 2222,,Austin,Texas,78730,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"7300 Ranch Rd 2222
+Austin, Texas 3639
+(30.372443986, -97.802253039)",$4.17/month PIE members $2/hr Non-Members,30A
+404,BOULDIN CREEK / 1,2043 S Lamar Blvd,,Austin,Texas,78704,2,,Tenant,Workplace,General,J1772,240V,J1772,"2043 S Lamar Blvd
+Austin, Texas 2859
+(30.248294002, -97.769373012)",,40A
+405,PARK BEND / CTBS STATION 1,2217 Park Bend Dr,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,CTBS Access,Workplace,General,J1772,240V,J1772,"2217 Park Bend Dr
+Austin, Texas 3646
+(30.407851995, -97.70396198)",$4.17/month PIE members $2/hr Non-Members,40A
+406,FROST / 3,515 Congress Ave,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,Tenants,Parking,Commercial,J1772,240V,J1772,"515 Congress Ave
+Austin, Texas 2856
+(30.267649996, -97.742504989)",$4.17/month PIE members $2/hr Non-Members,40A
+407,AUSTIN FC / SIX,10414 Mc Kalla Pl,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10414 Mc Kalla Pl
+Austin, Texas 3646
+(30.387724992, -97.719413013)",,40A
+408,SALTILLO / BLOCK 4,1211 E 5th St,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"1211 E 5th St
+Austin, Texas 2857
+(30.262996992, -97.730679967)",$4.17/month PIE members $2/hr Non-Members,40A
+409,WALLERCREEKSIDE / CREEKSIDE1,102 E 50th St,,Austin,Texas,78751,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"102 E 50th St
+Austin, Texas 3640
+(30.314774832, -97.723802242)",$4.17/month PIE members $2/hr Non-Members,40A
+410,FOUNDATION COMM / 2900MP PROSPER,2900 S IH 35 Frontage Rd,,Austin,Texas,78704,2,,All Drivers,Workplace,General,J1772,240V,J1772,"2900 S IH 35 Frontage Rd
+Austin, Texas 2859
+(30.227864999, -97.745735961)",,40A
+411,AMD GO GREEN / P100 FLOOR 5,7171 Southwest Pkwy,,Austin,Texas,78735,2,,AMD Lone Star,Workplace,High-Tech,J1772,240V,J1772,"7171 Southwest Pkwy
+Austin, Texas 3251
+(30.251202984, -97.863350994)",,40A
+412,AVIATION / 1ST FLOOR R,3201 Presidential Blvd,,Austin,Texas,78719,2,,All Drivers,Parking,Airport,J1772,240V,J1772,"3201 Presidential Blvd
+Austin, Texas 2863
+(30.204258773, -97.670137162)",,40A
+413,RAINEY STREET / MILLENNIUM-01,91 Rainey St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"91 Rainey St
+Austin, Texas 2856
+(30.260197017, -97.737995022)",$4.17/month PIE members $2/hr Non-Members,40A
+414,CITADELTECHRIDG / CITADEL TCHRDG1,1127 Pearl Retreat Dr,,Austin,Texas,78753,2,,Austin Citadel Access Policy,Multi-family Commercial,Apartment,J1772,240V,J1772,"1127 Pearl Retreat Dr
+Austin, Texas 3642
+(30.393527993, -97.651817993)",,40A
+415,FOUNDRY / STATION 3,310 Comal St,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"310 Comal St
+Austin, Texas 2857
+(30.261140987, -97.728030029)",$4.17/month PIE members $2/hr Non-Members,40A
+416,CEDARHILLS-AE / CEDARHILL 1,4100 W Slaughter Ln,,Austin,Texas,78749,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"4100 W Slaughter Ln
+Austin, Texas 3638
+(30.190305021, -97.855761013)",,40A
+417,NATIONAL INSTRU / 1&2,11500 N Mopac Expy,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"11500 N Mopac Expy
+Austin, Texas 3647
+(30.406639008, -97.727892985)",$4.17/month PIE members $2/hr Non-Members,40A
+418,TR DOMAIN 10 / COUSINS DOMAIN9,11815 Alterra Parkway,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"11815 Alterra Parkway
+Austin, Texas 3646
+(30.403614985, -97.718629976)",$4.17/month PIE members $2/hr Non-Members,40A
+419,PIE AE / MUELLERHQ P1-1,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,40A
+420,NRP GROUP / LOYOLA,6200 Loyola Ln,,Austin,Texas,78724,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"6200 Loyola Ln
+Austin, Texas 3240
+(30.302478019, -97.650846028)",$4.17/month PIE members $2/hr Non-Members,
+421,DCMC GARAGE 3 / EV STATION 1,4924 Mueller/Barbara Jordan,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4924 Mueller/Barbara Jordan
+Austin, Texas 3239
+(30.30385548, -97.704084562)",,40A
+422,PIE AE / PUBHEBBRODIEST1,6900 Brodie Ln,,Austin,Texas,78745,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"6900 Brodie Ln
+Austin, Texas 3638
+(30.216256986, -97.830998021)",$4.17/month PIE members $2/hr Non-Members,40A
+423,AUSTIN / AUSTIN 200 3,200 W Cesar Chavez St,,Austin,Texas,78701,2,,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"200 W Cesar Chavez St
+Austin, Texas 2856
+(30.264410013, -97.746215992)",,40A
+424,CITY VIEW / STATION2,1120 S Capital of Texas Hwy,,Austin,Texas,78746,2,,All Drivers,Workplace,General,J1772,240V,J1772,"1120 S Capital of Texas Hwy
+Austin, Texas 3260
+(30.28235001, -97.825149967)",,40A
+425,AVIATION / 2ND FLOOR R,3201 Presidential Blvd,,Austin,Texas,78719,2,,All Drivers,Parking,Airport,J1772,240V,J1772,"3201 Presidential Blvd
+Austin, Texas 2863
+(30.204258773, -97.670137162)",,40A
+426,SIENNATHOMPSON / #2,525 Brazos St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"525 Brazos St
+Austin, Texas 2856
+(30.267217071, -97.741586981)",$4.17/month PIE members $2/hr Non-Members,40A
+427,HANOVER / L7,110 San Antonio St,,Austin,Texas,78701,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"110 San Antonio St
+Austin, Texas 2856
+(30.26531199, -97.749484013)",$4.17/month PIE members $2/hr Non-Members,40A
+428,AVIATION / 1ST FLOOR GARAG,3201 Presidential Blvd,,Austin,Texas,78719,2,,All Drivers,Parking,Airport,J1772,240V,J1772,"3201 Presidential Blvd
+Austin, Texas 2863
+(30.204258773, -97.670137162)",,40A
+429,PIE AE / MUELLERHQ P2-10,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,40A
+430,DCMC GARAGE 3 / LL #7,4900 Mueller Boulevard,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Boulevard
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+431,TR DOMAIN 11 / STATION 1,11920 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"11920 Alterra Pkwy
+Austin, Texas 3646
+(30.405286001, -97.719620968)",$4.17/month PIE members $2/hr Non-Members,40A
+432,YETI RAMBLERS / EVSE #2,7601 Southwest Pkwy,,Austin,Texas,78735,2,$4.17/month PIE members $2/hr Non-Members,Yeti Coolers,Workplace,General,J1772,240V,J1772,"7601 Southwest Pkwy
+Austin, Texas 3251
+(30.25580599, -97.872517024)",$4.17/month PIE members $2/hr Non-Members,40A
+433,NATIONAL INSTRU / 5&6,11500 N Mopac Expy,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"11500 N Mopac Expy
+Austin, Texas 3647
+(30.406639008, -97.727892985)",$4.17/month PIE members $2/hr Non-Members,40A
+434,ASHTON AUSTIN / STATION3,101 Colorado St,,Austin,Texas,78701,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"101 Colorado St
+Austin, Texas 2856
+(30.264166016, -97.74536196)",,40A
+435,PIE AE / PUBACCSVSCTRST2,9101 Exchange Dr,,Austin,Texas,78710,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"9101 Exchange Dr
+Austin, Texas 3643
+(30.329945341, -97.667356672)",$4.17/month PIE members $2/hr Non-Members,40A
+436,AISD / CASIS 2,2710 Exposition Blvd,Exposition/Northwood,Austin,Texas,78703,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"2710 Exposition Blvd
+Austin, Texas 2858
+(30.304544997, -97.765951016)",,40A
+437,ACC / AE HLC GAR 1F4,6018 WILHELMINA DELCO DR,,Austin,Texas,78752,2,,All Drivers,Education,University / College,J1772,240V,J1772,"6018 WILHELMINA DELCO DR
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+438,CATHERINE / CATHERINE 2,300 Barton Springs Rd,,Austin,Texas,78704,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"300 Barton Springs Rd
+Austin, Texas 2859
+(30.259219981, -97.747697997)",,40A
+439,ENDEAVOR REG / LEVEL 2 - #3,4301 Bull Creek Rd,,Austin,Texas,78731,2,,All Drivers,Workplace,General,J1772,240V,J1772,"4301 Bull Creek Rd
+Austin, Texas 3247
+(30.318010985, -97.753847967)",,40A
+440,BEXLEYTECHRIDGE / CLUBHOUSE,1200 East Parmer Lane,,Austin,Texas,78753,1,,All Drivers,Parking,Commercial,J1772,240V,J1772,"1200 East Parmer Lane
+Austin, Texas 3642
+(30.396170011, -97.652635983)",,40A
+441,LADERA BEND / BUILDING 1,7300 Ranch Rd 2222,,Austin,Texas,78750,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"7300 Ranch Rd 2222
+Austin, Texas 3639
+(30.372443986, -97.802253039)",$4.17/month PIE members $2/hr Non-Members,40A
+442,AMD GO GREEN / AMD P100 LG,7171 Southwest Pkwy,,Austin,Texas,78735,2,,AMD Lone Star,Workplace,High-Tech,J1772,240V,J1772,"7171 Southwest Pkwy
+Austin, Texas 3251
+(30.251202984, -97.863350994)",,40A
+443,HIDAUSTIN / STATION 1,611 Center Ridge Dr,,Austin,Texas,78753,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"611 Center Ridge Dr
+Austin, Texas 3642
+(30.413884996, -97.666467967)",$4.17/month PIE members $2/hr Non-Members,40A
+444,PALOMA RIDGE / PALOMA BDG C #4,13620 Ranch Rd 620 N,,Austin,Texas,78717,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"13620 Ranch Rd 620 N
+Austin, Texas 2862
+(30.387240427, -97.903868619)",$4.17/month PIE members $2/hr Non-Members,40A
+445,DCMC GARAGE 3 / EV STATION 5,1400 Barbara Jordan Blvd,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"1400 Barbara Jordan Blvd
+Austin, Texas 3239
+(30.304783001, -97.704081003)",,40A
+446,PIE AE / ERCOT 2,7601 E Ben White Blvd,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Municipal Fleet,J1772,240V,J1772,"7601 E Ben White Blvd
+Austin, Texas 3258
+(30.216916013, -97.692526969)",$4.17/month PIE members $2/hr Non-Members,40A
+447,AUSTIN HQ / MCKINNEY FALLS,5808 McKinney Falls Pkwy,Rock Shelter Interpretive Trail,Austin,Texas,78744,2,,All Drivers,Parks and Recreation,,J1772,240V,J1772,"5808 McKinney Falls Pkwy
+Austin, Texas 3258
+(30.182792991, -97.723032989)",,40A
+448,PIE AE / PUB ACC NRIDGE1,11928 Stonehollow Dr,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"11928 Stonehollow Dr
+Austin, Texas 3646
+(30.403440013, -97.704204972)",$4.17/month PIE members $2/hr Non-Members,40A
+449,AUSTIN DOT / PDC EV #7,6310 Wilhelmina Delco Dr,,Austin,Texas,78752,2,,All Drivers,Workplace,General,J1772,240V,J1772,"6310 Wilhelmina Delco Dr
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+450,PIE AE / HOWSONBRCHLIBR1,2500 Exposition Blvd,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Library,J1772,240V,J1772,"2500 Exposition Blvd
+Austin, Texas 2858
+(30.298259994, -97.76762396)",$4.17/month PIE members $2/hr Non-Members,40A
+451,MIRA VISTA / STATION 1,2705 Bee Cave Rd,,Austin,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"2705 Bee Cave Rd
+Austin, Texas 3260
+(30.269378009, -97.786918011)",$4.17/month PIE members $2/hr Non-Members,40A
+452,HANOVER / L1,110 San Antonio St,,Austin,Texas,78701,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"110 San Antonio St
+Austin, Texas 2856
+(30.26531199, -97.749484013)",$4.17/month PIE members $2/hr Non-Members,40A
+453,BRANDYWINE AUST / RIVER PL 1,6500 River Pl Blvd,,Austin,Texas,78730,2,,All Drivers,Workplace,General,J1772,240V,J1772,"6500 River Pl Blvd
+Austin, Texas 3246
+(30.392150008, -97.84886497)",,40A
+454,RIATA' / DOMINION,12340 Alameda Trace Cir,,Austin,Texas,78727,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"12340 Alameda Trace Cir
+Austin, Texas 3243
+(30.430908012, -97.747810985)",$4.17/month PIE members $2/hr Non-Members,40A
+455,DOMAIN TOWER 2 / LVL 6_STATION 3,10025 Alterra Pkwy,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10025 Alterra Pkwy
+Austin, Texas 3646
+(30.394621999, -97.722115003)",,40A
+456,TRAVIS FLATS / COUNTY STATION2,5335 Airport Blvd,,Austin,Texas,78751,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"5335 Airport Blvd
+Austin, Texas 3640
+(30.315147014, -97.713145026)",$4.17/month PIE members $2/hr Non-Members,40A
+457,PIE AE / CTECC EVSE1,5010 Old Manor Rd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Municipal Workplace,J1772,240V,J1772,"5010 Old Manor Rd
+Austin, Texas 3239
+(30.300168009, -97.69433)",$4.17/month PIE members $2/hr Non-Members,40A
+458,COA / TWIN OAKS #1,1800 S 5th St,,Austin,Texas,78704,2,,All Drivers,Municipal,Library,J1772,240V,J1772,"1800 S 5th St
+Austin, Texas 2859
+(30.248673996, -97.762382002)",,40A
+459,ST. JOHNS WEST / ST JOHNS SW,601 W St Johns Ave,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"601 W St Johns Ave
+Austin, Texas 3641
+(30.337705985, -97.71480699)",$4.17/month PIE members $2/hr Non-Members,40A
+460,ENDEAVOR REG / DEMONBREUN 2,1216 Demonbreun St,,Nashville,Tennessee,37203,2,,All Drivers,Workplace,General,J1772,240V,J1772,"1216 Demonbreun St
+Nashville, Tennessee 30406
+(36.154427019, -86.787545964)",,40A
+461,SOLARWINDS / SOLARWINDS #1,7171 Southwest Parkway,P400 Garage,Austin,Texas,78735,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"7171 Southwest Parkway
+Austin, Texas 3251
+(30.251202984, -97.863350994)",$4.17/month PIE members $2/hr Non-Members,40A
+462,PIE AE / PUB ACC EVIEW1,3401 Webberville Rd,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"3401 Webberville Rd
+Austin, Texas 2857
+(30.268334001, -97.706759021)",$4.17/month PIE members $2/hr Non-Members,40A
+463,INDEED TOWER / P6 SOUTH ST 1,618 Lavaca St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"618 Lavaca St
+Austin, Texas 2856
+(30.269549, -97.745216031)",$4.17/month PIE members $2/hr Non-Members,40A
+464,MONOGRAM / OFF NETWORK 1,615 W 7th St,,Austin,Texas,78701,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"615 W 7th St
+Austin, Texas 2856
+(30.270491, -97.748857968)",$4.17/month PIE members $2/hr Non-Members,40A
+465,SIENNATHOMPSON / #4,508 Brazos St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"508 Brazos St
+Austin, Texas 2856
+(30.267083002, -97.74210601)",$4.17/month PIE members $2/hr Non-Members,40A
+466,PIE AE / WALNUTCREEKPRK2,Walnut Creek Park Rd,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parks and Recreation,,J1772,--,J1772,"Walnut Creek Park Rd
+Austin, Texas 3646
+(30.40148815, -97.684502031)",$4.17/month PIE members $2/hr Non-Members,40A
+467,INDEED TOWER / P8 SOUTH ST 2,200 W 6TH ST,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W 6TH ST
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+468,GIBSON FLATS / STATION 2,1219 S Lamar Blvd,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"1219 S Lamar Blvd
+Austin, Texas 2859
+(30.254150019, -97.761700972)",$4.17/month PIE members $2/hr Non-Members,40A
+469,PIE AE / MUELLERHQ P2-2,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,--,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,30A
+470,ENDEAVOR REG / LEVEL 3 - #2,4301 Bull Creek Rd,,Austin,Texas,78731,2,,All Drivers,Workplace,General,J1772,240V,J1772,"4301 Bull Creek Rd
+Austin, Texas 3247
+(30.318010985, -97.753847967)",,40A
+471,PIE-CAPRIDGE / #1,115 Wild Basin Rd,,Austin,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"115 Wild Basin Rd
+Austin, Texas 3260
+(30.304101007, -97.828004005)",$4.17/month PIE members $2/hr Non-Members,40A
+472,PIE AE / PUBHILL.CGAL1,12901 Hill Country Blvd,,Bee Cave,Texas,78738,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"12901 Hill Country Blvd
+Bee Cave, Texas 3254
+(30.309331985, -97.942085982)",$4.17/month PIE members $2/hr Non-Members,40A
+473,DOMAIN. / DOMAIN GW 3,2900 Esperanza Crossing,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"2900 Esperanza Crossing
+Austin, Texas 3646
+(30.399031006, -97.71997502)",,40A
+474,AISD / BLAZIER 2,6219 Baythorne Dr,,Austin,Texas,78747,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"6219 Baythorne Dr
+Austin, Texas 3261
+(30.151872472, -97.749052832)",,40A
+475,CAPMETRO / EVSE 03,41 N Pleasant Valley Rd,,Austin,Texas,78702,2,,All Drivers,Municipal,Municipal Fleet,J1772,240V,J1772,"41 N Pleasant Valley Rd
+Austin, Texas 2857
+(30.251137479, -97.713373951)",,40A
+476,LCPM / GARAGE 1,3800 N. Lamar Blvd,,Austin,Texas,78756,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"3800 N. Lamar Blvd
+Austin, Texas 3644
+(30.306039993, -97.743531017)",$4.17/month PIE members $2/hr Non-Members,40A
+477,ACC-AE / NORTHRIDGE2,11928 Stonehollow,,Austin,Texas,78758,2,,All Drivers,Education,University / College,J1772,240V,J1772,"11928 Stonehollow
+Austin, Texas 3646
+(30.403440013, -97.704204972)",,40A
+478,1801 E 6TH / AUSTIN 1801 3,1805 E 6th St,,Austin,Texas,78702,2,,All Drivers,Parking,Commercial,J1772,240V,J1772,"1805 E 6th St
+Austin, Texas 2857
+(30.26175098, -97.723689963)",,40A
+479,ROSCOE PROPERTI / TIMBERCREEK 1,614 S 1st St,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"614 S 1st St
+Austin, Texas 2859
+(30.256767017, -97.751467003)",$4.17/month PIE members $2/hr Non-Members,40A
+480,REPUBLICSQUARE / GABLES REPUB3,213 W 4th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"213 W 4th St
+Austin, Texas 2856
+(30.266468986, -97.745542004)",$4.17/month PIE members $2/hr Non-Members,40A
+481,DCMC GARAGE 3 / EV STATION 9,4924 Mueller/Barbara Jordan,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4924 Mueller/Barbara Jordan
+Austin, Texas 3239
+(30.30385548, -97.704084562)",,40A
+482,FOUNDRY / STATION 1,310 Comal St,,Austin,Texas,78702,2,,All Drivers,Workplace,General,J1772,240V,J1772,"310 Comal St
+Austin, Texas 2857
+(30.261140987, -97.728030029)",,40A
+483,CZPROPERTIES / FLOOR 2 UNIT 2,1400 Lavaca St,,Austin,Texas,78701,2,,All Drivers,Workplace,General,J1772,240V,J1772,"1400 Lavaca St
+Austin, Texas 2856
+(30.277083996, -97.742725014)",,40A
+484,AISD / TRAVIS1,1211 E Oltorf St.,,Austin,Texas,78704,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"1211 E Oltorf St.
+Austin, Texas 2859
+(30.233693021, -97.744263009)",,40A
+485,TR DOMAIN 10 / ALTERRA 6,11815 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"11815 Alterra Pkwy
+Austin, Texas 3646
+(30.403614985, -97.718629976)",$4.17/month PIE members $2/hr Non-Members,30A
+486,DOMAIN TOWER 2 / LVL 5_STATION 1,10025 Alterra Pkwy,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10025 Alterra Pkwy
+Austin, Texas 3646
+(30.394621999, -97.722115003)",,40A
+487,TR DOMAIN 10 / COUSINS DOMAIN5,11815 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"11815 Alterra Pkwy
+Austin, Texas 3646
+(30.403614985, -97.718629976)",$4.17/month PIE members $2/hr Non-Members,40A
+488,RIDGE OFFICE / THE RIDGE GW,6805 Wood Hollow Dr,,Austin,Texas,78731,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"6805 Wood Hollow Dr
+Austin, Texas 3247
+(30.349762011, -97.753631965)",$4.17/month PIE members $2/hr Non-Members,40A
+489,DCMC GARAGE 3 / LVL1 RAMP LEFT,4910 Mueller Blvd,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4910 Mueller Blvd
+Austin, Texas 3239
+(30.302221994, -97.706071035)",,40A
+490,RIATA' / ARROWHEAD,12370 Alameda Trace Cir,,Austin,Texas,78727,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"12370 Alameda Trace Cir
+Austin, Texas 3243
+(30.432453007, -97.746633998)",$4.17/month PIE members $2/hr Non-Members,40A
+491,TRAILHEAD / EV-3,1120 Shady Ln,,Austin,Texas,78721,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"1120 Shady Ln
+Austin, Texas 2864
+(30.261706011, -97.69317204)",$4.17/month PIE members $2/hr Non-Members,40A
+492,AUSTIN HQ / STATION 1,4200 Smith School Dr,,Austin,Texas,78744,2,,All Drivers,Workplace,General,J1772,240V,J1772,"4200 Smith School Dr
+Austin, Texas 3258
+(30.195979988, -97.715189959)",,40A
+493,ACC / AE HLC GAR 1F5,6018 WILHELMINA DELCO DR,,Austin,Texas,78752,2,,All Drivers,Education,University / College,J1772,240V,J1772,"6018 WILHELMINA DELCO DR
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+494,BRANDYWINE AUST / RIVER PL 2,6500 River Pl Blvd,,Austin,Texas,78730,2,,All Drivers,Workplace,General,J1772,240V,J1772,"6500 River Pl Blvd
+Austin, Texas 3246
+(30.392150008, -97.84886497)",,40A
+495,PIE AE / PUBDENNYSNORTH2,1601 Interstate 35 Frontage Road,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"1601 Interstate 35 Frontage Road
+Austin, Texas 2857
+(30.16881, -97.78476)",$4.17/month PIE members $2/hr Non-Members,40A
+496,OWNER / TRAMMELLCROW5,500 W 2nd St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"500 W 2nd St
+Austin, Texas 2856
+(30.266027008, -97.749197016)",$4.17/month PIE members $2/hr Non-Members,40A
+497,AVIATION / 2ND FLOOR L,3201 Presidential Blvd,,Austin,Texas,78719,2,,All Drivers,Parking,Airport,J1772,240V,J1772,"3201 Presidential Blvd
+Austin, Texas 2863
+(30.204258773, -97.670137162)",,40A
+498,INDEED TOWER / P6 CORE ST 1,200 W 6th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W 6th St
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+499,RPP GARAGE / ISLAND 2,12301 Research Blvd,,Austin,Texas,78759,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"12301 Research Blvd
+Austin, Texas 3647
+(30.429288, -97.754653971)",$4.17/month PIE members $2/hr Non-Members,40A
+500,PARK BEND / THRIVESPECIALTY,2217 Park Bend Dr,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,Thrive Specialty Access,Workplace,General,J1772,240V,J1772,"2217 Park Bend Dr
+Austin, Texas 3646
+(30.407851995, -97.70396198)",$4.17/month PIE members $2/hr Non-Members,40A
+501,TIG REAL ESTATE / PIE-STATION-1,Frontage Rd,,Austin,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,"NEMA 5-20R, J1772",240V,"NEMA 5-20R, J1772","Frontage Rd
+Austin, Texas 3260
+(30.16881, -97.78476)",$4.17/month PIE members $2/hr Non-Members,40A
+502,DOMAIN / RIGHT STATION,11501 Alterra Pkwy,,Austin,Texas,78758,1,,All Drivers,Multi-family Commercial,Condominium,J1772,240V,J1772,"11501 Alterra Pkwy
+Austin, Texas 3646
+(30.400938015, -97.719188965)",,40A
+503,CHEVY MAIN / AUTONATION MAIN,11400 Research Blvd,,Austin,Texas,78759,2,,All Drivers,Workplace,General,J1772,240V,J1772,"11400 Research Blvd
+Austin, Texas 3647
+(30.409554988, -97.746365023)",,40A
+504,TR DOMAIN 10 / ALTERRA 4,11815 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"11815 Alterra Pkwy
+Austin, Texas 3646
+(30.403614985, -97.718629976)",$4.17/month PIE members $2/hr Non-Members,40A
+505,CZPROPERTIES / FLOOR 3 UNIT 3,1400 Lavaca St,,Austin,Texas,78701,2,,All Drivers,Workplace,General,J1772,240V,J1772,"1400 Lavaca St
+Austin, Texas 2856
+(30.277083996, -97.742725014)",,40A
+506,PARKSIDE 1 / PARKSIDE2,3000 Kramer Ln,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"3000 Kramer Ln
+Austin, Texas 3646
+(30.396636003, -97.72313198)",$4.17/month PIE members $2/hr Non-Members,40A
+507,PIE AE / MUELLERHQ P2-7,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,40A
+508,QO I & II / QO1,10900 Stonelake Blvd,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"10900 Stonelake Blvd
+Austin, Texas 3647
+(30.401859018, -97.736482005)",$4.17/month PIE members $2/hr Non-Members,40A
+509,ZOEY AUSTIN / ZOEY - LEVEL 2,5700 E Riverside Dr,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"5700 E Riverside Dr
+Austin, Texas 3256
+(30.228463006, -97.709738034)",$4.17/month PIE members $2/hr Non-Members,40A
+510,PIE AE / MUELLERHQ P2-5,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,40A
+511,PIE AE / PDC LV1 CHRG#6,6310 Wilhelmina Delco Dr,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Municipal Fleet,J1772,--,J1772,"6310 Wilhelmina Delco Dr
+Austin, Texas 3641
+(30.3166, -97.6575)",$4.17/month PIE members $2/hr Non-Members,40A
+512,PARKING LEVEL 1 / KENZIE 2,11301 Domain Dr,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"11301 Domain Dr
+Austin, Texas 3646
+(30.399143994, -97.724609961)",$4.17/month PIE members $2/hr Non-Members,40A
+513,THE MEDVE GROUP / BARTON-HILLS,1244 Barton Hills Dr,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"1244 Barton Hills Dr
+Austin, Texas 2859
+(30.261556876, -97.775346898)",$4.17/month PIE members $2/hr Non-Members,40A
+514,HPI 3700 / 3900 SC #1,3900 N Capital of Texas Hwy,,Austin,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"3900 N Capital of Texas Hwy
+Austin, Texas 3260
+(30.338488016, -97.807482005)",$4.17/month PIE members $2/hr Non-Members,40A
+515,RIATA' / MYLESMARK,12610 Riata Trace Pkwy,,Austin,Texas,78727,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"12610 Riata Trace Pkwy
+Austin, Texas 3243
+(30.432170998, -97.739647011)",$4.17/month PIE members $2/hr Non-Members,40A
+516,AVIATION / 4TH FLOOR,3201 Presidential Blvd,,Austin,Texas,78719,2,,All Drivers,Parking,Airport,J1772,240V,J1772,"3201 Presidential Blvd
+Austin, Texas 2863
+(30.204258773, -97.670137162)",,40A
+517,DCMC GARAGE 3 / LVL1 RAMP RIGHT,4910 Mueller Blvd,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4910 Mueller Blvd
+Austin, Texas 3239
+(30.302221994, -97.706071035)",,40A
+518,PARMER AUSTIN / PIC #1,507 E Howard Ln,3M Science Center,Austin,Texas,78753,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"507 E Howard Ln
+Austin, Texas 3642
+(30.413371017, -97.654677982)",$4.17/month PIE members $2/hr Non-Members,40A
+519,PIE AE / PUBGABLESPRESS1,1313 W 6th St,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"1313 W 6th St
+Austin, Texas 2858
+(30.273712878, -97.759892585)",$4.17/month PIE members $2/hr Non-Members,40A
+520,PIE AE / 2201 E 6TH ST,2201 E 6th St,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,"J1772, NEMA 5-20R",240V,"J1772, NEMA 5-20R","2201 E 6th St
+Austin, Texas 2857
+(30.259628012, -97.718571973)",$4.17/month PIE members $2/hr Non-Members,40A
+521,ABOR / PARKING_P1,4800 Spicewood Springs Rd,Level P1,Austin,Texas,78759,2,,All Drivers,Workplace,General,J1772,240V,J1772,"4800 Spicewood Springs Rd
+Austin, Texas 3647
+(30.376460008, -97.76305599)",,40A
+522,DCMC GARAGE 3 / L1 #14,4900 Mueller Boulevard,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Boulevard
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+523,GPT / GPT 3,111 Sandra Muraida Way,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"111 Sandra Muraida Way
+Austin, Texas 2856
+(30.267467019, -97.754166982)",$4.17/month PIE members $2/hr Non-Members,40A
+524,PIE AE / PALMER STATION2,800 Barton Springs Rd,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"800 Barton Springs Rd
+Austin, Texas 2859
+(30.2592972, -97.752574566)",$4.17/month PIE members $2/hr Non-Members,40A
+525,HYATT PLACE / HP STATION 2,9532 Spirit of Austin Ln,,Austin,Texas,78719,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Hospitality,Hotel / Resort,J1772,240V,J1772,"9532 Spirit of Austin Ln
+Austin, Texas 2863
+(30.210609008, -97.665077996)",$4.17/month PIE members $2/hr Non-Members,40A
+526,GOODHEALTH / STATION: 1,7800 Metropolis Dr,,Austin,Texas,78744,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"7800 Metropolis Dr
+Austin, Texas 3258
+(30.207393513, -97.6927852)",$4.17/month PIE members $2/hr Non-Members,40A
+527,AISD / AISD PAC #5,1500 Barbara Jordan Blvd,,Austin,Texas,78723,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"1500 Barbara Jordan Blvd
+Austin, Texas 3239
+(30.304542985, -97.702827993)",,40A
+528,PIE AE / PUBACCHIGHLAND2,5930 Middle Fiskville Rd,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"5930 Middle Fiskville Rd
+Austin, Texas 3641
+(30.322711012, -97.712367018)",$4.17/month PIE members $2/hr Non-Members,30A
+529,PIE AE / PUBDENNYSNORTH1,1601 Interstate 35 Frontage Road,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"1601 Interstate 35 Frontage Road
+Austin, Texas 2857
+(30.16881, -97.78476)",$4.17/month PIE members $2/hr Non-Members,40A
+530,AUSTIN / AUSTIN 200 1,200 W Cesar Chavez St,,Austin,Texas,78701,2,,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"200 W Cesar Chavez St
+Austin, Texas 2856
+(30.264410013, -97.746215992)",,40A
+531,PRESIDIUM / LAUREL,8312 Fathom Cir,,Austin,Texas,78750,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"8312 Fathom Cir
+Austin, Texas 3639
+(30.436921525, -97.777604879)",$4.17/month PIE members $2/hr Non-Members,40A
+532,DCMC GARAGE 3 / LL #6,4900 Mueller Boulevard,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Boulevard
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+533,PIE AE / PUBACCSVSCTRST1,9101 Exchange Dr,,Austin,Texas,78754,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"9101 Exchange Dr
+Austin, Texas 3643
+(30.329945341, -97.667356672)",$4.17/month PIE members $2/hr Non-Members,40A
+534,LADERA BEND / BUILDING 3,7300 Ranch Rd 2222,,Austin,Texas,78730,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"7300 Ranch Rd 2222
+Austin, Texas 3639
+(30.372443986, -97.802253039)",$4.17/month PIE members $2/hr Non-Members,40A
+535,DCMC GARAGE 3 / LVL4 RAMP,4910 Mueller Blvd,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4910 Mueller Blvd
+Austin, Texas 3239
+(30.302221994, -97.706071035)",,40A
+536,AISD / AISD PAC #1,1500 Barbara Jordan Blvd,,Austin,Texas,78723,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"1500 Barbara Jordan Blvd
+Austin, Texas 3239
+(30.304542985, -97.702827993)",,40A
+537,PARKING LEVEL 1 / GATEWAY 1 MAIN,11301 Domain Dr,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"11301 Domain Dr
+Austin, Texas 3646
+(30.399143994, -97.724609961)",$4.17/month PIE members $2/hr Non-Members,40A
+538,CITY VIEW / STATION1,1250 S Capital of Texas Hwy,,Austin,Texas,78746,2,,All Drivers,Workplace,General,J1772,240V,J1772,"1250 S Capital of Texas Hwy
+Austin, Texas 3260
+(30.279993983, -97.822950975)",,40A
+539,AUSTIN FC / ONE,10414 Mc Kalla Pl,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10414 Mc Kalla Pl
+Austin, Texas 3646
+(30.387724992, -97.719413013)",,40A
+540,DSMCUT / EVSE04 FLOOR L4,501573 E 15th St,,Austin,Texas,78701,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"501573 E 15th St
+Austin, Texas 2856
+(30.275257241, -97.729358387)",,40A
+541,MERITAGE / STATION 2,4500 Steiner Ranch Blvd,,Austin,Texas,78732,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"4500 Steiner Ranch Blvd
+Austin, Texas 3248
+(30.383176007, -97.87965103)",$4.17/month PIE members $2/hr Non-Members,40A
+542,100 CONGRESS / STATION 1,100 Congress Ave,,Austin,Texas,78701,2,,All Drivers,Parking,Commercial,J1772,240V,J1772,"100 Congress Ave
+Austin, Texas 2856
+(30.264022015, -97.744819987)",,40A
+543,ENCINO STATIONS / STATION 3,5707 Southwest Pkwy,,Austin,Texas,78735,1,,All Drivers,Workplace,General,J1772,240V,J1772,"5707 Southwest Pkwy
+Austin, Texas 3251
+(30.244095004, -97.84453798)",,40A
+544,ENDEAVOR REG / 2500 BEE CAVES1,2500 Bee Caves Rd.,,Austin,Texas,78746,2,,Tenant Only,Workplace,General,J1772,240V,J1772,"2500 Bee Caves Rd.
+Austin, Texas 3260
+(30.268663997, -97.784114013)",,40A
+545,PIE AE / PUBDITTMAR2,1009 W Dittmar Rd,,Austin,Texas,78745,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parks and Recreation,,J1772,240V,J1772,"1009 W Dittmar Rd
+Austin, Texas 3637
+(30.184661988, -97.802324033)",$4.17/month PIE members $2/hr Non-Members,40A
+546,PIE AE / MUELLERHQ P2-9,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,40A
+547,ENDEAVOR REG / LEVEL 3 - #1,4301 Bull Creek Rd,,Austin,Texas,78731,2,,All Drivers,Workplace,General,J1772,240V,J1772,"4301 Bull Creek Rd
+Austin, Texas 3247
+(30.318010985, -97.753847967)",,40A
+548,PIE AE / MILWOOD LIB 2,12500 Amherst Dr,,Austin,Texas,78727,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"12500 Amherst Dr
+Austin, Texas 3243
+(30.42233299, -97.716188998)",$4.17/month PIE members $2/hr Non-Members,40A
+549,AUSTIN DOT / PDC EV #9,6310 Wilhelmina Delco Drive,,Austin,Texas,78752,2,,All Drivers,Workplace,General,J1772,240V,J1772,"6310 Wilhelmina Delco Drive
+Austin, Texas 3641
+(30.26759, -97.74299)",,40A
+550,DSMCUT / EVSE08 G LEVEL,1305 Red River St,,Austin,Texas,78701,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"1305 Red River St
+Austin, Texas 2856
+(30.273944463, -97.734978033)",,40A
+551,DCMC GARAGE 3 / L1 #15,4900 Mueller Boulevard,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Boulevard
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+552,PIE AE / PUBHARCON L2,6601 Vaught Ranch Rd,,Austin,Texas,78730,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"6601 Vaught Ranch Rd
+Austin, Texas 3246
+(30.373075982, -97.806417)",$4.17/month PIE members $2/hr Non-Members,40A
+553,PIE AE / MUELLERHQ P2-3,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,40A
+554,BOULDIN CREEK / 2,2043 S Lamar Blvd,,Austin,Texas,78704,2,,Tenant,Workplace,General,J1772,240V,J1772,"2043 S Lamar Blvd
+Austin, Texas 2859
+(30.248294002, -97.769373012)",,40A
+555,PIE AE / PUB CAMP MABRY2,2200 W 35th St.,Camp Mabry 1 mile track near cannons,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"2200 W 35th St.
+Austin, Texas 2858
+(30.310316985, -97.759284972)",$4.17/month PIE members $2/hr Non-Members,40A
+556,ENDEAVOR REG / 901 E 6TH ST 1,901 E 6th St,,Austin,Texas,78702,2,,All Drivers,Workplace,General,J1772,240V,J1772,"901 E 6th St
+Austin, Texas 2857
+(30.265159984, -97.733481032)",,40A
+557,GAINESRANCH / GAINES 1,4424 Gaines Ranch Loop,,Austin,Texas,78735,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"4424 Gaines Ranch Loop
+Austin, Texas 3251
+(30.244040019, -97.818368002)",$4.17/month PIE members $2/hr Non-Members,40A
+558,ARBORETUM / N CAPITAL TX 1,9442 N Capital of Texas Hwy,,Austin,Texas,78759,2,,All Drivers,Workplace,General,"NEMA 5-20R, J1772",240V,"NEMA 5-20R, J1772","9442 N Capital of Texas Hwy
+Austin, Texas 3647
+(30.390319987, -97.748096975)",,40A
+559,RPP GARAGE / GARAGE GW,12455 Research Park Loop,,Austin,Texas,78727,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"12455 Research Park Loop
+Austin, Texas 3647
+(30.429688573, -97.75406753)",$4.17/month PIE members $2/hr Non-Members,40A
+560,PIE AE / RUTHERFORDCAMP2,8301 Cameron Rd,,Austin,Texas,78754,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"8301 Cameron Rd
+Austin, Texas 3643
+(30.337343007, -97.680257036)",$4.17/month PIE members $2/hr Non-Members,40A
+561,INT-BIO EV CHGR / INTBIO EV CHGR2,8206 Cross Park Dr,,Austin,Texas,78754,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"8206 Cross Park Dr
+Austin, Texas 3643
+(30.331232012, -97.669184039)",$4.17/month PIE members $2/hr Non-Members,40A
+562,CTM / CTM,1124 IH 35,,Austin,Texas,78704,2,,All Drivers,Municipal,Municipal Workplace,J1772,240V,J1772,"1124 IH 35
+Austin, Texas 2859
+(30.440698745, -97.669280282)",,40A
+563,INDEED TOWER / NONGW 5591,200 W 6TH ST,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"200 W 6TH ST
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+564,PIE AE / PDC LV1 CHRG#5,6310 Wilhelmina Delco Dr,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Municipal Fleet,J1772,240V,J1772,"6310 Wilhelmina Delco Dr
+Austin, Texas 3641
+(30.3166, -97.6575)",$4.17/month PIE members $2/hr Non-Members,20A
+565,STONE WEALTH / STONE WEALTH,4210 Spicewood Springs Blvd,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4210 Spicewood Springs Blvd
+Austin, Texas 3647
+(30.371553996, -97.756030028)",$4.17/month PIE members $2/hr Non-Members,40A
+566,MUELLER MARKET / MUELLER 5,300 Berkman Dr,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Retail,Shopping Center,J1772,240V,J1772,"300 Berkman Dr
+Austin, Texas 3239
+(30.326184105, -97.688290392)",$4.17/month PIE members $2/hr Non-Members,40A
+567,PARK&ZOOM / VALET #4,9518 Hotel Dr,,Austin,Texas,78719,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Airport,J1772,240V,J1772,"9518 Hotel Dr
+Austin, Texas 2863
+(30.211932862, -97.66293639)",$4.17/month PIE members $2/hr Non-Members,40A
+568,TR DOMAIN 10 / COUSINS D10-7A,11815 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,--,J1772,"11815 Alterra Pkwy
+Austin, Texas 3646
+(30.403614985, -97.718629976)",$4.17/month PIE members $2/hr Non-Members,40A
+569,AVIATION / AUS-WAREHOUSE 1,10100 Golfcourse Rd,,Austin,Texas,78719,2,,All Drivers,Municipal,Parks and Recreation (Public),J1772,240V,J1772,"10100 Golfcourse Rd
+Austin, Texas 2863
+(30.206619334, -97.652739264)",,40A
+570,AUSTIN DOT / PDC EV #6,6310 Wilhelmina Delco Dr,,Austin,Texas,78752,2,,All Drivers,Workplace,General,J1772,240V,J1772,"6310 Wilhelmina Delco Dr
+Austin, Texas 3641
+(30.3166, -97.6575)",,40A
+571,PIE AE / HAMPTON LBRY1,5125 Convict Hill Rd,,Austin,Texas,78749,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Library,J1772,240V,J1772,"5125 Convict Hill Rd
+Austin, Texas 3638
+(30.217655003, -97.855041007)",$4.17/month PIE members $2/hr Non-Members,40A
+572,PIE AE / ERCOT 3,7620 Metro Center Dr,,Austin,Texas,78744,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Municipal Workplace,J1772,240V,J1772,"7620 Metro Center Dr
+Austin, Texas 3258
+(30.216278988, -97.692323959)",$4.17/month PIE members $2/hr Non-Members,40A
+573,PIE AE / PUBAMLI1,W 3rd St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"W 3rd St
+Austin, Texas 2856
+(30.266120667, -97.746906445)",$4.17/month PIE members $2/hr Non-Members,40A
+574,ST. ED'S / GARAGE STATION1,578 Woodward St,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Education,University / College,J1772,240V,J1772,"578 Woodward St
+Austin, Texas 2859
+(30.226293301, -97.753050212)",$4.17/month PIE members $2/hr Non-Members,40A
+575,ABOR / PARKING_P2,4800 Spicewood Springs Rd,Level P2,Austin,Texas,78759,1,,All Drivers,Workplace,General,J1772,240V,J1772,"4800 Spicewood Springs Rd
+Austin, Texas 3647
+(30.376460008, -97.76305599)",,40A
+576,NRP GROUP / MARTINGALE 1,8100 S Congress Ave,,Austin,Texas,78748,2,$4.17/month PIE members $2/hr Non-Members,The Martingale Access Policy,Multi-family Commercial,Apartment,J1772,240V,J1772,"8100 S Congress Ave
+Austin, Texas 3637
+(30.178167983, -97.785250013)",$4.17/month PIE members $2/hr Non-Members,
+577,AVIATION / AUS - CMF 2,10100 Golfcourse Rd,,Austin,Texas,78719,2,,All Drivers,Municipal,Parks and Recreation (Public),J1772,240V,J1772,"10100 Golfcourse Rd
+Austin, Texas 2863
+(30.206619334, -97.652739264)",,40A
+578,TR DOMAIN 10 / COUSINS DOMAIN2,11815 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"11815 Alterra Pkwy
+Austin, Texas 3646
+(30.403614985, -97.718629976)",$4.17/month PIE members $2/hr Non-Members,40A
+579,HABITAT SUITES / DUAL PORT,500 E Highland Mall Blvd,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"500 E Highland Mall Blvd
+Austin, Texas 3641
+(30.329192989, -97.709052981)",$4.17/month PIE members $2/hr Non-Members,40A
+580,PARK PLAZA / STATION1,115 Sandra Muraida Way,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Retail,Strip Mall,J1772,240V,J1772,"115 Sandra Muraida Way
+Austin, Texas 2856
+(30.268112007, -97.754822028)",$4.17/month PIE members $2/hr Non-Members,40A
+581,5000 BURNET / STATION 1,5000 Burnet Rd,,Austin,Texas,78756,2,,All Drivers,Hospitality,Restaurant,J1772,240V,J1772,"5000 Burnet Rd
+Austin, Texas 3644
+(30.321174986, -97.73954098)",,40A
+582,INDEED TOWER / P5 SOUTH ST 1,200 W 6th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W 6th St
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+583,CY AUSTIN AP / STATION 1,8001 Palma Verde Dr,,Austin,Texas,78744,2,,All Drivers,Hospitality,Hotel / Resort,J1772,240V,J1772,"8001 Palma Verde Dr
+Austin, Texas 3256
+(30.217574998, -97.687392969)",,40A
+584,HPI 3700 / EV 3,3700 N Capital of Texas Hwy,,Austin,Texas,78746,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"3700 N Capital of Texas Hwy
+Austin, Texas 3260
+(30.33672702, -97.806556978)",$4.17/month PIE members $2/hr Non-Members,40A
+585,COA / NEWCENTRALLIB4,710 W Cesar Chavez St,,Austin,Texas,78701,2,,All Drivers,Municipal,Library,J1772,240V,J1772,"710 W Cesar Chavez St
+Austin, Texas 2856
+(30.266101984, -97.751692979)",,40A
+586,FOUNDATION COMM / 11704NLAMAR1,11704 N Lamar Blvd,,Austin,Texas,78753,1,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"11704 N Lamar Blvd
+Austin, Texas 3646
+(30.386576001, -97.684431978)",,40A
+587,HPI 3700 / EV 5,4339 N Capital of Texas Hwy,,Austin,Texas,78746,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4339 N Capital of Texas Hwy
+Austin, Texas 3260
+(30.33672702, -97.806556978)",$4.17/month PIE members $2/hr Non-Members,40A
+588,1801 E 6TH / AUSTIN 1801 2,1805 E 6th St,,Austin,Texas,78702,2,,All Drivers,Parking,Commercial,J1772,240V,J1772,"1805 E 6th St
+Austin, Texas 2857
+(30.26175098, -97.723689963)",,40A
+589,PIE AE / PDC LV1 CHRG#9,6310 Wilhelmina Delco Dr,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,Test card AE,Municipal,Municipal Fleet,J1772,240V,J1772,"6310 Wilhelmina Delco Dr
+Austin, Texas 3641
+(30.3166, -97.6575)",$4.17/month PIE members $2/hr Non-Members,40A
+590,NATIONAL INSTRU / 3&4,11500 N Mopac Expy,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"11500 N Mopac Expy
+Austin, Texas 3647
+(30.406639008, -97.727892985)",$4.17/month PIE members $2/hr Non-Members,40A
+591,SOLARWINDS / SOLARWINDS #2,7171 Southwest Pkwy,P400 Garage,Austin,Texas,78735,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"7171 Southwest Pkwy
+Austin, Texas 3251
+(30.251202984, -97.863350994)",$4.17/month PIE members $2/hr Non-Members,40A
+592,AMD GO GREEN / P100 FL4 INNER,7171 Southwest Pkwy,,Austin,Texas,78735,2,,AMD Lone Star,Workplace,High-Tech,J1772,240V,J1772,"7171 Southwest Pkwy
+Austin, Texas 3251
+(30.251202984, -97.863350994)",,40A
+593,COA / NEWCENTRALLIB2,710 W Cesar Chavez St,,Austin,Texas,78701,2,,All Drivers,Municipal,Library,J1772,240V,J1772,"710 W Cesar Chavez St
+Austin, Texas 2856
+(30.266101984, -97.751692979)",,40A
+594,RIATA' / ROCK CREEK,12345 Alameda Trace Cir,,Austin,Texas,78727,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"12345 Alameda Trace Cir
+Austin, Texas 3243
+(30.43093299, -97.747116963)",$4.17/month PIE members $2/hr Non-Members,40A
+595,PARMER AUSTIN / STATION PIC 4,509 E Howard Ln,,Austin,Texas,78753,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"509 E Howard Ln
+Austin, Texas 3642
+(30.41384478, -97.654251954)",$4.17/month PIE members $2/hr Non-Members,40A
+596,ENCINO STATIONS / STATION 1,5707 Southwest Pkwy,,Austin,Texas,78735,2,,All Drivers,Workplace,General,J1772,240V,J1772,"5707 Southwest Pkwy
+Austin, Texas 3251
+(30.244095004, -97.84453798)",,40A
+597,INDEED TOWER / P6 SOUTH ST 2,200 W 6th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W 6th St
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+598,AUSTIN FC / FOUR,10414 Mc Kalla Pl,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10414 Mc Kalla Pl
+Austin, Texas 3646
+(30.387724992, -97.719413013)",,40A
+599,PIE AE / MUELLERHQ P1-4,4815 Mueller Blvd,,Austin,Texas,78723,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4815 Mueller Blvd
+Austin, Texas 3239
+(30.30156502, -97.704676035)",$4.17/month PIE members $2/hr Non-Members,40A
+600,ENDEAVOR REG / MCGAVOCK 1,1213 McGavock St,,Nashville,Tennessee,37203,2,,All Drivers,Workplace,General,J1772,240V,J1772,"1213 McGavock St
+Nashville, Tennessee 30406
+(36.154930981, -86.787612013)",,40A
+601,TR DOMAIN 10 / COUSINS DOMAIN3,11815 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"11815 Alterra Pkwy
+Austin, Texas 3646
+(30.403614985, -97.718629976)",$4.17/month PIE members $2/hr Non-Members,40A
+602,DCMC GARAGE 3 / LVL6 RAMP,4910 Mueller Blvd,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4910 Mueller Blvd
+Austin, Texas 3239
+(30.302221994, -97.706071035)",,40A
+603,FOUNDRY / STATION 4,310 Comal St,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"310 Comal St
+Austin, Texas 2857
+(30.261140987, -97.728030029)",$4.17/month PIE members $2/hr Non-Members,40A
+604,TR DOMAIN 10 / COUSINS D10-7B,11815 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"11815 Alterra Pkwy
+Austin, Texas 3646
+(30.403614985, -97.718629976)",$4.17/month PIE members $2/hr Non-Members,40A
+605,HANOVER / L4,110 San Antonio St,,Austin,Texas,78701,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"110 San Antonio St
+Austin, Texas 2856
+(30.26531199, -97.749484013)",$4.17/month PIE members $2/hr Non-Members,40A
+606,PALOMA RIDGE / PALOMA BDG C #1,13620 N FM 620,,Austin,Texas,78717,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"13620 N FM 620
+Austin, Texas 2862
+(30.476522078, -97.77881028)",$4.17/month PIE members $2/hr Non-Members,40A
+607,SAS / STATION 2,12100 samsung blvd,,Austin,Texas,78754,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"12100 samsung blvd
+Austin, Texas 3643
+(30.374996988, -97.637508995)",$4.17/month PIE members $2/hr Non-Members,40A
+608,PIE AE / PUB-CENTRALMKTS,4477 S Lamar Blvd,,Austin,Texas,78745,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"4477 S Lamar Blvd
+Austin, Texas 3259
+(30.230961987, -97.797678028)",$4.17/month PIE members $2/hr Non-Members,40A
+609,RIATA' / RIATA ADMIN OFC,12300 Riata Trace Pkwy,,Austin,Texas,78727,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,--,J1772,"12300 Riata Trace Pkwy
+Austin, Texas 3243
+(30.429284983, -97.747514014)",$4.17/month PIE members $2/hr Non-Members,40A
+610,PIE AE / PALMER STATION4,846888 Barton Springs Rd,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"846888 Barton Springs Rd
+Austin, Texas 2859
+(30.267041431, -97.770683881)",$4.17/month PIE members $2/hr Non-Members,40A
+611,TRAILHEAD / EV-2,1142 Shady Ln,,Austin,Texas,78721,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"1142 Shady Ln
+Austin, Texas 2864
+(30.262879981, -97.691614012)",$4.17/month PIE members $2/hr Non-Members,40A
+612,DCMC GARAGE 3 / LL #2,4900 Mueller Boulevard,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Boulevard
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+613,DOMAIN TOWER 2 / LVL 6_STATION 1,10025 Alterra Pkwy,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10025 Alterra Pkwy
+Austin, Texas 3646
+(30.394621999, -97.722115003)",,40A
+614,HPI 3700 / 3900 SC #2,3900 N Capital of Texas Hwy,,Austin,Texas,78746,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"3900 N Capital of Texas Hwy
+Austin, Texas 3260
+(30.338488016, -97.807482005)",$4.17/month PIE members $2/hr Non-Members,40A
+615,BRANDYWINE AUST / FOUR POINTS 1,11120 4 Points Dr,,Austin,Texas,78726,2,,All Drivers,Workplace,General,J1772,240V,J1772,"11120 4 Points Dr
+Austin, Texas 3242
+(30.40539702, -97.848074975)",,40A
+616,AVIATION / 3RD FLOOR,3201 Presidential Blvd,,Austin,Texas,78719,2,,All Drivers,Parking,Airport,J1772,240V,J1772,"3201 Presidential Blvd
+Austin, Texas 2863
+(30.204258773, -97.670137162)",,40A
+617,PIE AE / KRAMER 01,2526 Kramer Ln,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"2526 Kramer Ln
+Austin, Texas 3646
+(30.394425988, -97.71703096)",$4.17/month PIE members $2/hr Non-Members,40A
+618,ACC-AE / RIO GRANDE SUR1,701 W 13 1/2 St,,Austin,Texas,78701,2,,All Drivers,Education,University / College,J1772,240V,J1772,"701 W 13 1/2 St
+Austin, Texas 2856
+(30.277293907, -97.74684398)",,40A
+619,TR DOMAIN 11 / STATION2,11920 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"11920 Alterra Pkwy
+Austin, Texas 3646
+(30.405286001, -97.719620968)",$4.17/month PIE members $2/hr Non-Members,40A
+620,DSMCUT / EVSE03 FLOOR L5,501573 E 15th St,,Austin,Texas,78701,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"501573 E 15th St
+Austin, Texas 2856
+(30.275257241, -97.729358387)",,40A
+621,INDEED TOWER / B3 CORE ST 2,200 W 6th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W 6th St
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+622,OWNER / TRAMMELLCROW4,500 W 2nd St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"500 W 2nd St
+Austin, Texas 2856
+(30.266027008, -97.749197016)",$4.17/month PIE members $2/hr Non-Members,40A
+623,ENDEAVOR REG / BROADWAY 1,1501 Broadway,,Nashville,Tennessee,37203,2,,All Drivers,Workplace,General,J1772,240V,J1772,"1501 Broadway
+Nashville, Tennessee 30406
+(36.154865979, -86.789909996)",,40A
+624,ST. JOHNS WEST / ST JOHNS NW,601 W St Johns Ave,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"601 W St Johns Ave
+Austin, Texas 3641
+(30.337705985, -97.71480699)",$4.17/month PIE members $2/hr Non-Members,40A
+625,HYATT PLACE / HP STATION 3,9532 Spirit of Austin Ln,,Austin,Texas,78719,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Hospitality,Hotel / Resort,J1772,--,J1772,"9532 Spirit of Austin Ln
+Austin, Texas 2863
+(30.210609008, -97.665077996)",$4.17/month PIE members $2/hr Non-Members,40A
+626,REPUBLICSQUARE / GABLES REPUB5,219 W 4th St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"219 W 4th St
+Austin, Texas 2856
+(30.26654698, -97.745821037)",$4.17/month PIE members $2/hr Non-Members,40A
+627,INDEED TOWER / STATION-4448,200 W 6TH ST,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"200 W 6TH ST
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,40A
+628,CIELO CENTER / STATION 1,1250 S Capital of Texas Hwy,,Austin,Texas,78746,2,,All Drivers,Workplace,General,J1772,240V,J1772,"1250 S Capital of Texas Hwy
+Austin, Texas 3260
+(30.279993983, -97.822950975)",,40A
+629,RIDGE AUSTIN / STATION 1,3001 Scofield Ridge Pkwy,,Austin,Texas,78727,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Home Service,Apartment,J1772,240V,J1772,"3001 Scofield Ridge Pkwy
+Austin, Texas 3243
+(30.429241983, -97.699438016)",$4.17/month PIE members $2/hr Non-Members,40A
+630,PARMER AUSTIN / STATION PIC 3,709 E Howard Ln,,Austin,Texas,78753,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"709 E Howard Ln
+Austin, Texas 3642
+(30.412977623, -97.652493751)",$4.17/month PIE members $2/hr Non-Members,40A
+631,PIE AE / PUBAISDBURGERC,3200 Jones Rd,,Sunset Valley,Texas,78745,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"3200 Jones Rd
+Sunset Valley, Texas 3259
+(30.230461001, -97.809824998)",$4.17/month PIE members $2/hr Non-Members,40A
+632,AISD / BLAZIER 3,8801 Vertex Blvd,,Austin,Texas,78747,2,,All Drivers,Education,High School / Other,J1772,240V,J1772,"8801 Vertex Blvd
+Austin, Texas 3261
+(30.152859745, -97.752777131)",,40A
+633,DOMAIN TOWER 2 / LVL 2_STATION2,10025 Alterra Pkwy,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10025 Alterra Pkwy
+Austin, Texas 3646
+(30.394621999, -97.722115003)",,40A
+634,PIE AE / VILLATGRACYFARM,2600 Gracy Farms Ln,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Airport,J1772,240V,J1772,"2600 Gracy Farms Ln
+Austin, Texas 3646
+(30.405318984, -97.711247028)",$4.17/month PIE members $2/hr Non-Members,40A
+635,NORTHPOINTCENTR / NORTHPOINT,6834 Austin Center Blvd,,Austin,Texas,78731,2,$4.17/month PIE members $2/hr Non-Members,Northpoint Centre Charging,Workplace,General,J1772,240V,J1772,"6834 Austin Center Blvd
+Austin, Texas 3247
+(30.350353983, -97.752045019)",$4.17/month PIE members $2/hr Non-Members,40A
+636,5TH & COLORADO / 5TH & COLORADO2,201 W 5th St,,Austin,Texas,78701,2,,All Drivers,Workplace,General,J1772,240V,J1772,"201 W 5th St
+Austin, Texas 2856
+(30.267339992, -97.745003969)",,40A
+637,ASHTON AUSTIN / STATION1,101 Colorado St,,Austin,Texas,78701,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"101 Colorado St
+Austin, Texas 2856
+(30.264166016, -97.74536196)",,40A
+638,TRAILHEAD / EV-1,1142 Shady Ln,,Austin,Texas,78721,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"1142 Shady Ln
+Austin, Texas 2864
+(30.262879981, -97.691614012)",$4.17/month PIE members $2/hr Non-Members,40A
+639,ENCINO STATIONS / ARM EMPLOYEES,5707 Southwest Pkwy,,Austin,Texas,78735,2,,ARM EMPLOYEES,Workplace,General,J1772,240V,J1772,"5707 Southwest Pkwy
+Austin, Texas 3251
+(30.244095004, -97.84453798)",,40A
+640,WEINSTEIN / WHITESTONE 1,13945 Research Blvd,,Austin,Texas,78729,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"13945 Research Blvd
+Austin, Texas 2862
+(30.471384946, -97.797505266)",$4.17/month PIE members $2/hr Non-Members,40A
+641,DCMC GARAGE 3 / LVL3 ELEVATOR,4910 Mueller Blvd,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4910 Mueller Blvd
+Austin, Texas 3239
+(30.302221994, -97.706071035)",,40A
+642,PIE AE / PUBGABLES 5TH 2,1611 W 5th St,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"1611 W 5th St
+Austin, Texas 2858
+(30.274295001, -97.764683002)",$4.17/month PIE members $2/hr Non-Members,40A
+643,CAPMETRO / EVSE 02,624 N Pleasant Valley Rd,,Austin,Texas,78702,2,,All Drivers,Municipal,Municipal Fleet,J1772,240V,J1772,"624 N Pleasant Valley Rd
+Austin, Texas 2857
+(30.258991993, -97.710528028)",,40A
+644,ZOEY AUSTIN / ZOEY - LEVEL 6,5700 E Riverside Dr,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"5700 E Riverside Dr
+Austin, Texas 3256
+(30.228463006, -97.709738034)",$4.17/month PIE members $2/hr Non-Members,40A
+645,PIE PRESERVE / MAIN GATEWAY 1,5604 Southwest Pkwy,,Austin,Texas,78735,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"5604 Southwest Pkwy
+Austin, Texas 3251
+(30.247421991, -97.845660987)",$4.17/month PIE members $2/hr Non-Members,40A
+646,DOMAIN. / DOMAIN GW 1,2900 Esperanza Crossing,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"2900 Esperanza Crossing
+Austin, Texas 3646
+(30.399031006, -97.71997502)",,40A
+647,TRAVIS FLATS / FLATS STATION 1,811 E 53rd 1/2 St,,Austin,Texas,78751,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"811 E 53rd 1/2 St
+Austin, Texas 3640
+(30.314867654, -97.714507002)",$4.17/month PIE members $2/hr Non-Members,40A
+648,NATIONAL INSTRU / 21&22;,11500 N Mopac Expy,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"11500 N Mopac Expy
+Austin, Texas 3647
+(30.406639008, -97.727892985)",$4.17/month PIE members $2/hr Non-Members,40A
+649,INDEED TOWER / P8 SOUTH ST1,200 W 6TH ST,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"200 W 6TH ST
+Austin, Texas 2856
+(30.268915999, -97.74474698)",$4.17/month PIE members $2/hr Non-Members,
+650,PIE AE / ROSEWOOD PARK2,1182 N Pleasant Valley Rd,Rosewood Neighborhood Park Pedestrian Walkway,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parks and Recreation,,J1772,240V,J1772,"1182 N Pleasant Valley Rd
+Austin, Texas 2857
+(30.271789986, -97.714358977)",$4.17/month PIE members $2/hr Non-Members,40A
+651,PIE AE / PUB-CENTRALMKTN,4001 N Lamar Blvd,,Austin,Texas,78756,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"4001 N Lamar Blvd
+Austin, Texas 2860
+(30.307303984, -97.739736027)",$4.17/month PIE members $2/hr Non-Members,30A
+652,DOMAIN TOWER 2 / LVL 6_STATION 2,10025 Alterra Pkwy,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10025 Alterra Pkwy
+Austin, Texas 3646
+(30.394621999, -97.722115003)",,40A
+653,PIE AE / MACC STATION 2,600 River St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Municipal Workplace,J1772,240V,J1772,"600 River St
+Austin, Texas 2856
+(30.25839298, -97.740327035)",$4.17/month PIE members $2/hr Non-Members,40A
+654,NATIONAL INSTRU / 13&14;,11500 N Mopac Expy,,Austin,Texas,78759,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"11500 N Mopac Expy
+Austin, Texas 3647
+(30.406639008, -97.727892985)",$4.17/month PIE members $2/hr Non-Members,40A
+655,PIE AE / PALMER STATION7,846888 Barton Springs Rd,,Austin,Texas,78704,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"846888 Barton Springs Rd
+Austin, Texas 2859
+(30.267041431, -97.770683881)",$4.17/month PIE members $2/hr Non-Members,40A
+656,PIE AE / PUB-STDAVIDSST2,710 Trinity St,,Austin,Texas,78701,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Municipal Workplace,J1772,240V,J1772,"710 Trinity St
+Austin, Texas 2856
+(30.268812985, -97.739144013)",$4.17/month PIE members $2/hr Non-Members,40A
+657,ACC-AE / RIO GRANDE GAR2,824 W 12th St,,Austin,Texas,78701,2,,All Drivers,Education,University / College,J1772,240V,J1772,"824 W 12th St
+Austin, Texas 2856
+(30.276627015, -97.749445037)",,40A
+658,AMD GO GREEN / P100 FL3 RIGHT,7171 Southwest Pkwy,,Austin,Texas,78735,2,,All Drivers,Workplace,High-Tech,J1772,240V,J1772,"7171 Southwest Pkwy
+Austin, Texas 3251
+(30.251202984, -97.863350994)",,40A
+659,AUSTIN FC / SEVEN,10414 Mc Kalla Pl,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10414 Mc Kalla Pl
+Austin, Texas 3646
+(30.387724992, -97.719413013)",,40A
+660,THE WEAVER / STATION 1,15 Waller St,,Austin,Texas,78702,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"15 Waller St
+Austin, Texas 2857
+(30.252293008, -97.733491006)",$4.17/month PIE members $2/hr Non-Members,40A
+661,CATHERINE / CATHERINE 1,300 Barton Springs Rd,,Austin,Texas,78704,2,,All Drivers,Multi-family Commercial,Apartment,J1772,240V,J1772,"300 Barton Springs Rd
+Austin, Texas 2859
+(30.259219981, -97.747697997)",,40A
+662,PIE AE / ANIMAL SERVICE3,7201 Levander Loop,,Austin,Texas,78721,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"7201 Levander Loop
+Austin, Texas 2864
+(30.252743997, -97.689318041)",$4.17/month PIE members $2/hr Non-Members,40A
+663,PIE AE / PUBGABLESPRESS2,507 Pressler St,,Austin,Texas,78703,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,J1772,240V,J1772,"507 Pressler St
+Austin, Texas 2858
+(30.27285499, -97.76006298)",$4.17/month PIE members $2/hr Non-Members,40A
+664,DOMAIN. / DOMAIN GW 2,2900 Esperanza Crossing,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"2900 Esperanza Crossing
+Austin, Texas 3646
+(30.399031006, -97.71997502)",,40A
+665,HPI 3700 / EV 6,4339 N Capital of Texas Hwy,,Austin,Texas,78746,1,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"4339 N Capital of Texas Hwy
+Austin, Texas 3260
+(30.33672702, -97.806556978)",$4.17/month PIE members $2/hr Non-Members,40A
+666,PALOMA RIDGE / PALOMA1B,13620 Ranch Rd 620 N,,Austin,Texas,78717,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"13620 Ranch Rd 620 N
+Austin, Texas 2862
+(30.387240427, -97.903868619)",$4.17/month PIE members $2/hr Non-Members,40A
+667,LANTANA HILLS / LANTANA #2,6601 Rialto Blvd,,Austin,Texas,78735,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"6601 Rialto Blvd
+Austin, Texas 3251
+(30.246534012, -97.858179024)",$4.17/month PIE members $2/hr Non-Members,40A
+668,AUSTIN FC / FIVE,10414 Mc Kalla Pl,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10414 Mc Kalla Pl
+Austin, Texas 3646
+(30.387724992, -97.719413013)",,40A
+669,DOMAIN. / DOMAIN TW 03,10721 Domain Drive,,Austin,Texas,78758,2,,All Drivers,Workplace,General,J1772,240V,J1772,"10721 Domain Drive
+Austin, Texas 3646
+(30.392804006, -97.722992002)",,40A
+670,PIE AE / PUBLOSTPARROTS1,15116 Storm Dr,,Austin,Texas,78734,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Parking,Commercial,"J1772, NEMA 5-20R",240V,"J1772, NEMA 5-20R","15116 Storm Dr
+Austin, Texas 3250
+(30.382813993, -97.934022005)",$4.17/month PIE members $2/hr Non-Members,40A
+671,COA / NEWCENTRALLIB3,710 W Cesar Chavez St,,Austin,Texas,78701,2,,All Drivers,Municipal,Library,J1772,240V,J1772,"710 W Cesar Chavez St
+Austin, Texas 2856
+(30.266101984, -97.751692979)",,40A
+672,DCMC GARAGE 3 / LL #5,4900 Mueller Boulevard,,Austin,Texas,78723,2,,All Drivers,Healthcare,Hospital / Treatment Center,J1772,240V,J1772,"4900 Mueller Boulevard
+Austin, Texas 3239
+(30.303677009, -97.706609991)",,40A
+673,PIE AE / PDC LV1 CHRG#7,6310 Wilhelmina Delco Dr,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Municipal Fleet,J1772,240V,J1772,"6310 Wilhelmina Delco Dr
+Austin, Texas 3641
+(30.3166, -97.6575)",$4.17/month PIE members $2/hr Non-Members,40A
+674,CZPROPERTIES / FLOOR 3 UNIT 1,1400 Lavaca St,,Austin,Texas,78701,2,,All Drivers,Workplace,General,J1772,240V,J1772,"1400 Lavaca St
+Austin, Texas 2856
+(30.277083996, -97.742725014)",,40A
+675,TR DOMAIN 10 / COUSINS DOMAIN6,11815 Alterra Pkwy,,Austin,Texas,78758,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"11815 Alterra Pkwy
+Austin, Texas 3646
+(30.403614985, -97.718629976)",$4.17/month PIE members $2/hr Non-Members,40A
+676,HIDAUSTIN / STATION 02,611 Center Ridge Dr,,Austin,Texas,78753,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Workplace,General,J1772,240V,J1772,"611 Center Ridge Dr
+Austin, Texas 3642
+(30.413884996, -97.666467967)",$4.17/month PIE members $2/hr Non-Members,40A
+677,CAPMETRO / EVSE 04,41 N Pleasant Valley Rd,,Austin,Texas,78702,2,,All Drivers,Municipal,Municipal Fleet,J1772,240V,J1772,"41 N Pleasant Valley Rd
+Austin, Texas 2857
+(30.251137479, -97.713373951)",,40A
+678,PIE AE / PDC LV1 CHRG#2,6310 Wilhelmina Delco Dr,,Austin,Texas,78752,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,"Government (Fed, State)",Government Fleet,J1772,240V,J1772,"6310 Wilhelmina Delco Dr
+Austin, Texas 3641
+(30.3166, -97.6575)",$4.17/month PIE members $2/hr Non-Members,40A
+679,THE MEDVE GROUP / ARTS S AUSTIN,400 W St Elmo Rd,,Austin,Texas,78745,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Multi-family Commercial,Apartment,J1772,--,J1772,"400 W St Elmo Rd
+Austin, Texas 3259
+(30.220447015, -97.77087002)",$4.17/month PIE members $2/hr Non-Members,40A
+680,PIE AE / ERCOT 1,7601 E Ben White Blvd,,Austin,Texas,78741,2,$4.17/month PIE members $2/hr Non-Members,All Drivers,Municipal,Municipal Fleet,J1772,240V,J1772,"7601 E Ben White Blvd
+Austin, Texas 3258
+(30.216916013, -97.692526969)",$4.17/month PIE members $2/hr Non-Members,40A
